@@ -1,0 +1,1 @@
+# LBoL_Launcher_L10N
