@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="RefreshButton" xml:space="preserve">
+    <value>Обновить</value>
+  </data>
+  <data name="AddProfileTooltip" xml:space="preserve">
+    <value>Добавить Профиль</value>
+  </data>
+  <data name="ConfirmButton" xml:space="preserve">
+    <value>ОК</value>
+  </data>
+  <data name="CopyProfileTooltip" xml:space="preserve">
+    <value>Копировать Профиль</value>
+  </data>
+  <data name="PlayButton" xml:space="preserve">
+    <value>Запустить игру</value>
+  </data>
+  <data name="RemoveProfileTooltip" xml:space="preserve">
+    <value>Убрать Профиль</value>
+  </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>Поиск модов...</value>
+  </data>
+  <data name="SortByLabel" xml:space="preserve">
+    <value>Сортировать по</value>
+  </data>
+  <data name="FilterByTagsLabel" xml:space="preserve">
+    <value>Фильтр по тегам</value>
+  </data>
+  <data name="SortCustom" xml:space="preserve">
+    <value>Выбранные опции</value>
+  </data>
+  <data name="TagMod" xml:space="preserve">
+    <value>Мод</value>
+  </data>
+  <data name="TagExample" xml:space="preserve">
+    <value>Пример</value>
+  </data>
+  <data name="AllTags" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="AuthorLabel" xml:space="preserve">
+    <value>Автор</value>
+  </data>
+  <data name="ModVersionLabel" xml:space="preserve">
+    <value>Версия мода</value>
+  </data>
+  <data name="DependenciesLabel" xml:space="preserve">
+    <value>Зависимости</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>Статус</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Описание</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="StatusDisabled" xml:space="preserve">
+    <value>Выкл.</value>
+  </data>
+  <data name="NewProfileTitle" xml:space="preserve">
+    <value>Новый Профиль</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>ОК</value>
+  </data>
+  <data name="ProfileNameLabel" xml:space="preserve">
+    <value>Название Профиля:</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="ProfileNameCannotBeEmpty" xml:space="preserve">
+    <value>Название профиля не может быть пустым.</value>
+  </data>
+  <data name="LaunchGameError" xml:space="preserve">
+    <value>Ошибка при запуске игры: {0}</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>Внимание</value>
+  </data>
+  <data name="CannotDeleteTitle" xml:space="preserve">
+    <value>Удаление неуспешно</value>
+  </data>
+  <data name="ConfirmTitle" xml:space="preserve">
+    <value>ОК</value>
+  </data>
+  <data name="SuccessTitle" xml:space="preserve">
+    <value>Успешно!</value>
+  </data>
+  <data name="PublishSuccessMessage" xml:space="preserve">
+    <value>Мод "{0}" успешно опубликован!</value>
+  </data>
+  <data name="ProfileCreatedSuccessfully" xml:space="preserve">
+    <value>Мод "{0}" успешно создан</value>
+  </data>
+  <data name="ProfileDeletedSuccessfully" xml:space="preserve">
+    <value>Мод "{0}" успешно удалён</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="GameSettings" xml:space="preserve">
+    <value>Настройки игры</value>
+  </data>
+  <data name="GameLanguage" xml:space="preserve">
+    <value>Язык в игре</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>Монитор</value>
+  </data>
+  <data name="Resolution" xml:space="preserve">
+    <value>Разрешение</value>
+  </data>
+  <data name="LauncherSettings" xml:space="preserve">
+    <value>Настройки Лаунчера</value>
+  </data>
+  <data name="Fullscreen" xml:space="preserve">
+    <value>Полный экран</value>
+  </data>
+  <data name="Windowed" xml:space="preserve">
+    <value>Оконный режим</value>
+  </data>
+  <data name="StartGame" xml:space="preserve">
+    <value>Запустить игру</value>
+  </data>
+  <data name="VanillaGame" xml:space="preserve">
+    <value>Игра без модов</value>
+  </data>
+  <data name="SteamHomepage" xml:space="preserve">
+    <value>Страница Steam</value>
+  </data>
+  <data name="SteamWorkshop" xml:space="preserve">
+    <value>Мастерская Steam</value>
+  </data>
+  <data name="PlayerCommunity" xml:space="preserve">
+    <value>Сообщество</value>
+  </data>
+  <data name="ModManagement" xml:space="preserve">
+    <value>Управление модами</value>
+  </data>
+  <data name="ExternalLink" xml:space="preserve">
+    <value>Внешняя ссылка</value>
+  </data>
+  <data name="ViewFolderButton" xml:space="preserve">
+    <value>Просмотр папки</value>
+  </data>
+  <data name="IntroductionTab" xml:space="preserve">
+    <value>Введение</value>
+  </data>
+  <data name="ChangelogTab" xml:space="preserve">
+    <value>Лог изменений</value>
+  </data>
+  <data name="DependenciesTab" xml:space="preserve">
+    <value>Зависимости</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>ModTheLBoL</value>
+  </data>
+  <data name="OpenFolderButton" xml:space="preserve">
+    <value>Открыть папку</value>
+  </data>
+  <data name="DeleteProfileTooltip" xml:space="preserve">
+    <value>Удалить Профиль</value>
+  </data>
+  <data name="ProfileNamePlaceholder" xml:space="preserve">
+    <value>Введите название</value>
+  </data>
+  <data name="PublishButton" xml:space="preserve">
+    <value>Опубликовать</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>Фильтруем...</value>
+  </data>
+  <data name="SortByUpdateTime" xml:space="preserve">
+    <value>По дате обновления</value>
+  </data>
+  <data name="SortByAuthor" xml:space="preserve">
+    <value>По автору</value>
+  </data>
+  <data name="SortByTitle" xml:space="preserve">
+    <value>По названию</value>
+  </data>
+  <data name="GUIDLabel" xml:space="preserve">
+    <value>GUID</value>
+  </data>
+  <data name="StatusEnabled" xml:space="preserve">
+    <value>Вкл.</value>
+  </data>
+  <data name="EnterProfileNameMessage" xml:space="preserve">
+    <value>Введите название для этого профиля.</value>
+  </data>
+  <data name="ProfileExistsError" xml:space="preserve">
+    <value>Профиль с таким именем уже существует.</value>
+  </data>
+  <data name="LBoLNotFoundError" xml:space="preserve">
+    <value>Ошибка: Невозможно найти LBoL.exe в текущей директории.</value>
+  </data>
+  <data name="PublishModError" xml:space="preserve">
+    <value>Ошибка при публикации мода: {0}</value>
+  </data>
+  <data name="SelectProfileWarning" xml:space="preserve">
+    <value>Пожалуйста, выберите профиль перед запуском игры.</value>
+  </data>
+  <data name="CannotDeleteLastProfile" xml:space="preserve">
+    <value>Удаление неуспешно. Должен существовать как минимум один профиль.</value>
+  </data>
+  <data name="DiscardChangesWarning" xml:space="preserve">
+    <value>Имеются несохранённые изменения. Повторно нажмите "Отмена", чтобы отменить их.</value>
+  </data>
+  <data name="DeleteProfileWarning" xml:space="preserve">
+    <value>Профиль будет удалён без возможности восстановления. Нажмите "Удалить" ещё раз, чтобы подтвердить.</value>
+  </data>
+  <data name="ProfileUpdatedSuccessfully" xml:space="preserve">
+    <value>Мод "{0}" успешно обновлён</value>
+  </data>
+  <data name="DisplayMode" xml:space="preserve">
+    <value>Отображение</value>
+  </data>
+  <data name="LauncherLanguage" xml:space="preserve">
+    <value>Язык Лаунчера</value>
+  </data>
+  <data name="HomepageBackground" xml:space="preserve">
+    <value>Фон главного меню</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Профиль:</value>
+  </data>
+  <data name="SteamHomepageDescription" xml:space="preserve">
+    <value>Приобретите игру или узнайте актуальную информацию.</value>
+  </data>
+  <data name="SteamWorkshopDescription" xml:space="preserve">
+    <value>Ищите, выбирайте и загружайте моды.</value>
+  </data>
+  <data name="OfficialDiscord" xml:space="preserve">
+    <value>Сервер Discord</value>
+  </data>
+  <data name="OfficialDiscordDescription" xml:space="preserve">
+    <value>Обсуждайте проект с другими игроками.</value>
+  </data>
+  <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
+    <value>Зависимости не выполнены</value>
+  </data>
+  <data name="ViewWorkshopPageButton" xml:space="preserve">
+    <value>Просмотр страницы</value>
+  </data>
+  <data name="OpenFolderError" xml:space="preserve">
+    <value>Ошибка при открытии папки: {0}</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>Не обнаружено</value>
+  </data>
+  <data name="GameLaunched" xml:space="preserve">
+    <value>Девушки приступают к молитве...</value>
+  </data>
 </root>
