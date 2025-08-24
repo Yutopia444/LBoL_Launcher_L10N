@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="RefreshButton" xml:space="preserve">
+    <value>Újratöltés</value>
+  </data>
+  <data name="ProfileNamePlaceholder" xml:space="preserve">
+    <value>Adj egy nevet ennek a profilnak</value>
+  </data>
+  <data name="DeleteProfileTooltip" xml:space="preserve">
+    <value>Profil Törlése</value>
+  </data>
+  <data name="ConfirmButton" xml:space="preserve">
+    <value>Megerősít</value>
+  </data>
+  <data name="PlayButton" xml:space="preserve">
+    <value>Játék Indítása</value>
+  </data>
+  <data name="PublishButton" xml:space="preserve">
+    <value>Közzétesz</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>Szűrés...</value>
+  </data>
+  <data name="SortByLabel" xml:space="preserve">
+    <value>Rendezés</value>
+  </data>
+  <data name="FilterByTagsLabel" xml:space="preserve">
+    <value>Cimkék Szerinti Szűrés</value>
+  </data>
+  <data name="SortCustom" xml:space="preserve">
+    <value>Egyedi</value>
+  </data>
+  <data name="SortByTitle" xml:space="preserve">
+    <value>Név</value>
+  </data>
+  <data name="TagMod" xml:space="preserve">
+    <value>Mod</value>
+  </data>
+  <data name="TagExample" xml:space="preserve">
+    <value>Példa</value>
+  </data>
+  <data name="AllTags" xml:space="preserve">
+    <value>Összes</value>
+  </data>
+  <data name="ModVersionLabel" xml:space="preserve">
+    <value>Mod Verzió</value>
+  </data>
+  <data name="GUIDLabel" xml:space="preserve">
+    <value>GUID</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>Státusz</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Leírás</value>
+  </data>
+  <data name="StatusDisabled" xml:space="preserve">
+    <value>Ki</value>
+  </data>
+  <data name="NewProfileTitle" xml:space="preserve">
+    <value>Új Profil</value>
+  </data>
+  <data name="EnterProfileNameMessage" xml:space="preserve">
+    <value>Adj meg egy nevet ennek a profilnak.</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>Elutasít</value>
+  </data>
+  <data name="ProfileNameLabel" xml:space="preserve">
+    <value>Profil Neve:</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Hiba</value>
+  </data>
+  <data name="ProfileNameCannotBeEmpty" xml:space="preserve">
+    <value>A profil neve nem lehet üres.</value>
+  </data>
+  <data name="LBoLNotFoundError" xml:space="preserve">
+    <value>Hiba: az LBoL.exe nem található a jelenlegi könyvtárban.</value>
+  </data>
+  <data name="LaunchGameError" xml:space="preserve">
+    <value>Hiba a játék indítása során: {0}</value>
+  </data>
+  <data name="PublishModError" xml:space="preserve">
+    <value>Hiba a mod közzététele során: {0}</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>Figyelmeztetés</value>
+  </data>
+  <data name="ConfirmTitle" xml:space="preserve">
+    <value>Megerősít</value>
+  </data>
+  <data name="DiscardChangesWarning" xml:space="preserve">
+    <value>Mentetlen változtatások vannak. Kattints a "Mégse" gombra hogy eldobd ezeket a változtatásokat.</value>
+  </data>
+  <data name="DeleteProfileWarning" xml:space="preserve">
+    <value>Ez véglegesen törli a profilt. Kattints a "Törlés" gombra, hogy töröld.</value>
+  </data>
+  <data name="ProfileCreatedSuccessfully" xml:space="preserve">
+    <value>"{0}" sikeresen létrehozva</value>
+  </data>
+  <data name="ProfileUpdatedSuccessfully" xml:space="preserve">
+    <value>"{0}" sikeresen frissítve</value>
+  </data>
+  <data name="ProfileDeletedSuccessfully" xml:space="preserve">
+    <value>"{0}" sikeresen törölve</value>
+  </data>
+  <data name="GameLanguage" xml:space="preserve">
+    <value>Játék Nyelve</value>
+  </data>
+  <data name="DisplayMode" xml:space="preserve">
+    <value>Megjelenítési Mód</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>Képernyő</value>
+  </data>
+  <data name="Resolution" xml:space="preserve">
+    <value>Felbontás</value>
+  </data>
+  <data name="LauncherSettings" xml:space="preserve">
+    <value>Indító Beállítások</value>
+  </data>
+  <data name="HomepageBackground" xml:space="preserve">
+    <value>Főoldal Háttere</value>
+  </data>
+  <data name="Fullscreen" xml:space="preserve">
+    <value>Teljes Képernyő</value>
+  </data>
+  <data name="Windowed" xml:space="preserve">
+    <value>Ablakos</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Profil:</value>
+  </data>
+  <data name="SteamHomepage" xml:space="preserve">
+    <value>Steam Főoldal</value>
+  </data>
+  <data name="SteamWorkshop" xml:space="preserve">
+    <value>Steam Műhely</value>
+  </data>
+  <data name="SteamWorkshopDescription" xml:space="preserve">
+    <value>Böngéssz, iratkozz fel és tölts le modokat.</value>
+  </data>
+  <data name="PlayerCommunity" xml:space="preserve">
+    <value>Közösség</value>
+  </data>
+  <data name="ModManagement" xml:space="preserve">
+    <value>Mod Kezelés</value>
+  </data>
+  <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
+    <value>Függőségek Kielégítetlenek</value>
+  </data>
+  <data name="ViewFolderButton" xml:space="preserve">
+    <value>Mappa Megtekintése</value>
+  </data>
+  <data name="ChangelogTab" xml:space="preserve">
+    <value>Változásnapló</value>
+  </data>
+  <data name="DependenciesTab" xml:space="preserve">
+    <value>Függőségek</value>
+  </data>
+  <data name="GameLaunched" xml:space="preserve">
+    <value>A lányok imádkoznak...</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>ModTheLBoL</value>
+  </data>
+  <data name="OpenFolderButton" xml:space="preserve">
+    <value>Mappa Megnyitása</value>
+  </data>
+  <data name="AddProfileTooltip" xml:space="preserve">
+    <value>Profil Hozzáadása</value>
+  </data>
+  <data name="CopyProfileTooltip" xml:space="preserve">
+    <value>Profil Másolása</value>
+  </data>
+  <data name="RemoveProfileTooltip" xml:space="preserve">
+    <value>Profil Törlése</value>
+  </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>Modok keresése...</value>
+  </data>
+  <data name="SortByUpdateTime" xml:space="preserve">
+    <value>Legutóbb Frissítve</value>
+  </data>
+  <data name="SortByAuthor" xml:space="preserve">
+    <value>Készítő</value>
+  </data>
+  <data name="AuthorLabel" xml:space="preserve">
+    <value>Készítő</value>
+  </data>
+  <data name="DependenciesLabel" xml:space="preserve">
+    <value>Függőségek</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Nincs</value>
+  </data>
+  <data name="StatusEnabled" xml:space="preserve">
+    <value>Be</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>Rendben</value>
+  </data>
+  <data name="ProfileExistsError" xml:space="preserve">
+    <value>Egy profil ezzel a névvel már létezik.</value>
+  </data>
+  <data name="SelectProfileWarning" xml:space="preserve">
+    <value>Kérlek válassz egy profilt a játék indítása előtt.</value>
+  </data>
+  <data name="CannotDeleteTitle" xml:space="preserve">
+    <value>Törlés Meghiúsult</value>
+  </data>
+  <data name="CannotDeleteLastProfile" xml:space="preserve">
+    <value>A törlés nem ment végbe. Legalább egy profilnak elérhetőnek kell lennie.</value>
+  </data>
+  <data name="SuccessTitle" xml:space="preserve">
+    <value>Siker!</value>
+  </data>
+  <data name="PublishSuccessMessage" xml:space="preserve">
+    <value>"{0}" sikeresen közzé lett téve!</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Beállítások</value>
+  </data>
+  <data name="GameSettings" xml:space="preserve">
+    <value>Játékbeállítások</value>
+  </data>
+  <data name="LauncherLanguage" xml:space="preserve">
+    <value>Indító Nyelve</value>
+  </data>
+  <data name="StartGame" xml:space="preserve">
+    <value>Játék Indítása</value>
+  </data>
+  <data name="VanillaGame" xml:space="preserve">
+    <value>Vanilla Játék</value>
+  </data>
+  <data name="SteamHomepageDescription" xml:space="preserve">
+    <value>Vásárolj, vagy nézd meg a legfrissebb játékinformációkat.</value>
+  </data>
+  <data name="OfficialDiscord" xml:space="preserve">
+    <value>Hivatalos Discord</value>
+  </data>
+  <data name="OfficialDiscordDescription" xml:space="preserve">
+    <value>Vitasd meg a játékot más játékosokkal.</value>
+  </data>
+  <data name="ExternalLink" xml:space="preserve">
+    <value>Külső Hivatkozás</value>
+  </data>
+  <data name="ViewWorkshopPageButton" xml:space="preserve">
+    <value>Főoldal Megtekintése</value>
+  </data>
+  <data name="IntroductionTab" xml:space="preserve">
+    <value>Bemutatkozó</value>
+  </data>
+  <data name="OpenFolderError" xml:space="preserve">
+    <value>Hiba a mappa megnyitása során: {0}</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>Nem talált</value>
+  </data>
 </root>
