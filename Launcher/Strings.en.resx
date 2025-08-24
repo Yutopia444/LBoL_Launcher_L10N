@@ -61,4 +61,118 @@
   <data name="RefreshButton" xml:space="preserve">
     <value>Refresh</value>
   </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>ModTheLBoL</value>
+  </data>
+  <data name="OpenFolderButton" xml:space="preserve">
+    <value>Open Folder</value>
+  </data>
+  <data name="AddProfileTooltip" xml:space="preserve">
+    <value>Add Profile</value>
+  </data>
+  <data name="ConfirmButton" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="CopyProfileTooltip" xml:space="preserve">
+    <value>Copy Profile</value>
+  </data>
+  <data name="RemoveProfileTooltip" xml:space="preserve">
+    <value>Delete Profile</value>
+  </data>
+  <data name="PlayButton" xml:space="preserve">
+    <value>Launch Game</value>
+  </data>
+  <data name="PublishButton" xml:space="preserve">
+    <value>Publish</value>
+  </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>Searching for mods...</value>
+  </data>
+  <data name="SortByLabel" xml:space="preserve">
+    <value>Sort By</value>
+  </data>
+  <data name="FilterByTagsLabel" xml:space="preserve">
+    <value>Filter By Tags</value>
+  </data>
+  <data name="SortCustom" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="SortByAuthor" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="SortByTitle" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="TagMod" xml:space="preserve">
+    <value>Mod</value>
+  </data>
+  <data name="TagExample" xml:space="preserve">
+    <value>Example</value>
+  </data>
+  <data name="AllTags" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="AuthorLabel" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="ModVersionLabel" xml:space="preserve">
+    <value>Mod Version</value>
+  </data>
+  <data name="GUIDLabel" xml:space="preserve">
+    <value>GUID</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="StatusEnabled" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="StatusDisabled" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="ProfileNameLabel" xml:space="preserve">
+    <value>Profile Name:</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="ProfileExistsError" xml:space="preserve">
+    <value>A profile with this name already exists.</value>
+  </data>
+  <data name="ProfileNamePlaceholder" xml:space="preserve">
+    <value>Enter a name for this profile</value>
+  </data>
+  <data name="DeleteProfileTooltip" xml:space="preserve">
+    <value>Delete Profile</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>Filtering...</value>
+  </data>
+  <data name="SortByUpdateTime" xml:space="preserve">
+    <value>Latest Updated</value>
+  </data>
+  <data name="DependenciesLabel" xml:space="preserve">
+    <value>Dependencies</value>
+  </data>
+  <data name="NewProfileTitle" xml:space="preserve">
+    <value>New Profile</value>
+  </data>
+  <data name="EnterProfileNameMessage" xml:space="preserve">
+    <value>Enter a name for this profile.</value>
+  </data>
+  <data name="ProfileNameCannotBeEmpty" xml:space="preserve">
+    <value>Profile name cannot be empty.</value>
+  </data>
 </root>
