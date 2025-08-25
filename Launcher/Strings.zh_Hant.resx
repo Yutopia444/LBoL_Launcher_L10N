@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="RefreshButton" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="AddProfileTooltip" xml:space="preserve">
+    <value>添加配置</value>
+  </data>
+  <data name="DeleteProfileTooltip" xml:space="preserve">
+    <value>刪除檔案</value>
+  </data>
+  <data name="ConfirmButton" xml:space="preserve">
+    <value>確認</value>
+  </data>
+  <data name="RemoveProfileTooltip" xml:space="preserve">
+    <value>刪除配置</value>
+  </data>
+  <data name="PublishButton" xml:space="preserve">
+    <value>發布</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>篩選...</value>
+  </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>探索模組...</value>
+  </data>
+  <data name="SortCustom" xml:space="preserve">
+    <value>自定義</value>
+  </data>
+  <data name="SortByAuthor" xml:space="preserve">
+    <value>作者</value>
+  </data>
+  <data name="SortByTitle" xml:space="preserve">
+    <value>名稱</value>
+  </data>
+  <data name="TagMod" xml:space="preserve">
+    <value>模組</value>
+  </data>
+  <data name="AllTags" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="AuthorLabel" xml:space="preserve">
+    <value>作者</value>
+  </data>
+  <data name="GUIDLabel" xml:space="preserve">
+    <value>GUID</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>狀態</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="StatusEnabled" xml:space="preserve">
+    <value>已啟用</value>
+  </data>
+  <data name="StatusDisabled" xml:space="preserve">
+    <value>未啟用</value>
+  </data>
+  <data name="EnterProfileNameMessage" xml:space="preserve">
+    <value>請輸入配置名稱。</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="ProfileNameLabel" xml:space="preserve">
+    <value>配置名稱：</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>錯誤</value>
+  </data>
+  <data name="ProfileExistsError" xml:space="preserve">
+    <value>同名配置已存在。</value>
+  </data>
+  <data name="LBoLNotFoundError" xml:space="preserve">
+    <value>目前目錄未找到 LBoL.exe。</value>
+  </data>
+  <data name="LaunchGameError" xml:space="preserve">
+    <value>啟動遊戲失敗：{0}</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="SelectProfileWarning" xml:space="preserve">
+    <value>啟動遊戲前請先選擇一個配置。</value>
+  </data>
+  <data name="CannotDeleteTitle" xml:space="preserve">
+    <value>無法刪除</value>
+  </data>
+  <data name="ConfirmTitle" xml:space="preserve">
+    <value>確認</value>
+  </data>
+  <data name="DiscardChangesWarning" xml:space="preserve">
+    <value>您有未保存的修改，再次點擊取消以丟棄修改。</value>
+  </data>
+  <data name="SuccessTitle" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="ProfileCreatedSuccessfully" xml:space="preserve">
+    <value>檔案 '{0}' 創建成功</value>
+  </data>
+  <data name="ProfileDeletedSuccessfully" xml:space="preserve">
+    <value>檔案 '{0}' 刪除成功</value>
+  </data>
+  <data name="GameSettings" xml:space="preserve">
+    <value>遊戲設置</value>
+  </data>
+  <data name="GameLanguage" xml:space="preserve">
+    <value>遊戲語言</value>
+  </data>
+  <data name="DisplayMode" xml:space="preserve">
+    <value>顯示模式</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>顯示器</value>
+  </data>
+  <data name="LauncherSettings" xml:space="preserve">
+    <value>啟動器設置</value>
+  </data>
+  <data name="LauncherLanguage" xml:space="preserve">
+    <value>啟動器語言</value>
+  </data>
+  <data name="HomepageBackground" xml:space="preserve">
+    <value>主頁背景</value>
+  </data>
+  <data name="Fullscreen" xml:space="preserve">
+    <value>全屏</value>
+  </data>
+  <data name="Windowed" xml:space="preserve">
+    <value>窗口</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>檔案：</value>
+  </data>
+  <data name="SteamHomepage" xml:space="preserve">
+    <value>Steam 主頁</value>
+  </data>
+  <data name="SteamHomepageDescription" xml:space="preserve">
+    <value>購買與查看遊戲最新資訊。</value>
+  </data>
+  <data name="PlayerCommunity" xml:space="preserve">
+    <value>玩家社區</value>
+  </data>
+  <data name="OfficialDiscordDescription" xml:space="preserve">
+    <value>與其他玩家共同交流討論。</value>
+  </data>
+  <data name="ModManagement" xml:space="preserve">
+    <value>模組管理</value>
+  </data>
+  <data name="ExternalLink" xml:space="preserve">
+    <value>實用連結</value>
+  </data>
+  <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
+    <value>存在未滿足的依賴項</value>
+  </data>
+  <data name="ViewFolderButton" xml:space="preserve">
+    <value>查看文件夾</value>
+  </data>
+  <data name="IntroductionTab" xml:space="preserve">
+    <value>介紹</value>
+  </data>
+  <data name="ChangelogTab" xml:space="preserve">
+    <value>更新日誌</value>
+  </data>
+  <data name="DependenciesTab" xml:space="preserve">
+    <value>依賴</value>
+  </data>
+  <data name="GameLaunched" xml:space="preserve">
+    <value>少女祈禱用...</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>ModTheLBoL</value>
+  </data>
+  <data name="OpenFolderButton" xml:space="preserve">
+    <value>打開文件夾</value>
+  </data>
+  <data name="ProfileNamePlaceholder" xml:space="preserve">
+    <value>請輸入檔案名稱</value>
+  </data>
+  <data name="CopyProfileTooltip" xml:space="preserve">
+    <value>複製配置</value>
+  </data>
+  <data name="PlayButton" xml:space="preserve">
+    <value>打開遊戲</value>
+  </data>
+  <data name="SortByLabel" xml:space="preserve">
+    <value>排序方式</value>
+  </data>
+  <data name="FilterByTagsLabel" xml:space="preserve">
+    <value>按標籤篩選</value>
+  </data>
+  <data name="SortByUpdateTime" xml:space="preserve">
+    <value>最近更新</value>
+  </data>
+  <data name="TagExample" xml:space="preserve">
+    <value>示例</value>
+  </data>
+  <data name="ModVersionLabel" xml:space="preserve">
+    <value>模組版本</value>
+  </data>
+  <data name="DependenciesLabel" xml:space="preserve">
+    <value>依賴類</value>
+  </data>
+  <data name="NewProfileTitle" xml:space="preserve">
+    <value>新建配置</value>
+  </data>
+  <data name="ProfileNameCannotBeEmpty" xml:space="preserve">
+    <value>檔案名稱不能為空</value>
+  </data>
+  <data name="PublishModError" xml:space="preserve">
+    <value>發布模組失敗：{0}</value>
+  </data>
+  <data name="CannotDeleteLastProfile" xml:space="preserve">
+    <value>無法刪除最後一個配置。至少需要保留一個配置。</value>
+  </data>
+  <data name="DeleteProfileWarning" xml:space="preserve">
+    <value>這將永久刪除檔案。再次點擊刪除以確認。</value>
+  </data>
+  <data name="PublishSuccessMessage" xml:space="preserve">
+    <value>模組 '{0}' 發布成功！</value>
+  </data>
+  <data name="ProfileUpdatedSuccessfully" xml:space="preserve">
+    <value>檔案 '{0}' 更新成功</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>設置</value>
+  </data>
+  <data name="Resolution" xml:space="preserve">
+    <value>分辨率</value>
+  </data>
+  <data name="StartGame" xml:space="preserve">
+    <value>開始遊戲</value>
+  </data>
+  <data name="VanillaGame" xml:space="preserve">
+    <value>原版遊戲</value>
+  </data>
+  <data name="SteamWorkshop" xml:space="preserve">
+    <value>Steam 創意工坊</value>
+  </data>
+  <data name="SteamWorkshopDescription" xml:space="preserve">
+    <value>查看、訂閱、下載模組。</value>
+  </data>
+  <data name="OfficialDiscord" xml:space="preserve">
+    <value>官方Discord</value>
+  </data>
+  <data name="ViewWorkshopPageButton" xml:space="preserve">
+    <value>查看主頁</value>
+  </data>
+  <data name="OpenFolderError" xml:space="preserve">
+    <value>打開文件夾失敗：{0}</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>未找到</value>
+  </data>
 </root>
