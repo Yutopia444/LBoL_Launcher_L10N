@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ProfileNamePlaceholder" xml:space="preserve">
+    <value>名前を入力して下さい</value>
+  </data>
+  <data name="ConfirmButton" xml:space="preserve">
+    <value>決定</value>
+  </data>
+  <data name="AddProfileTooltip" xml:space="preserve">
+    <value>セーブデータを作成</value>
+  </data>
+  <data name="DeleteProfileTooltip" xml:space="preserve">
+    <value>セーブデータを削除</value>
+  </data>
+  <data name="CopyProfileTooltip" xml:space="preserve">
+    <value>セーブデータをコピー</value>
+  </data>
+  <data name="PlayButton" xml:space="preserve">
+    <value>ゲーム開始</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>ソート中…</value>
+  </data>
+  <data name="SortByLabel" xml:space="preserve">
+    <value>ソート方式</value>
+  </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>Modを検索中…</value>
+  </data>
+  <data name="PublishButton" xml:space="preserve">
+    <value>公開</value>
+  </data>
+  <data name="SortByUpdateTime" xml:space="preserve">
+    <value>新しい順</value>
+  </data>
+  <data name="SortByAuthor" xml:space="preserve">
+    <value>作者</value>
+  </data>
+  <data name="SortByTitle" xml:space="preserve">
+    <value>名前</value>
+  </data>
+  <data name="TagExample" xml:space="preserve">
+    <value>例</value>
+  </data>
+  <data name="AllTags" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="TagMod" xml:space="preserve">
+    <value>Mod</value>
+  </data>
+  <data name="GUIDLabel" xml:space="preserve">
+    <value>ガイド</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>状態</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>説明</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>無し</value>
+  </data>
+  <data name="StatusEnabled" xml:space="preserve">
+    <value>有効</value>
+  </data>
+  <data name="StatusDisabled" xml:space="preserve">
+    <value>無効</value>
+  </data>
+  <data name="DependenciesLabel" xml:space="preserve">
+    <value>依存Mod</value>
+  </data>
+  <data name="EnterProfileNameMessage" xml:space="preserve">
+    <value>名前を入力して下さい</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>決定</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>エラー</value>
+  </data>
+  <data name="ProfileExistsError" xml:space="preserve">
+    <value>同名のセーブデータが存在します。</value>
+  </data>
+  <data name="LaunchGameError" xml:space="preserve">
+    <value>ゲーム起動中のエラー：{0}</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="SelectProfileWarning" xml:space="preserve">
+    <value>ゲーム開始前にセーブデータを選択してください。</value>
+  </data>
+  <data name="CannotDeleteTitle" xml:space="preserve">
+    <value>削除失敗</value>
+  </data>
+  <data name="ConfirmTitle" xml:space="preserve">
+    <value>決定</value>
+  </data>
+  <data name="DiscardChangesWarning" xml:space="preserve">
+    <value>保存されていない変更があります。再度キャンセルを選択すると変更が破棄されます。</value>
+  </data>
+  <data name="SuccessTitle" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="PublishSuccessMessage" xml:space="preserve">
+    <value>Mod '{0}'が公開されました！</value>
+  </data>
+  <data name="ProfileCreatedSuccessfully" xml:space="preserve">
+    <value>セーブデータ'{0}'を作成しました</value>
+  </data>
+  <data name="ProfileUpdatedSuccessfully" xml:space="preserve">
+    <value>セーブデータ'{0}'を更新しました</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="GameSettings" xml:space="preserve">
+    <value>ゲーム設定</value>
+  </data>
+  <data name="DisplayMode" xml:space="preserve">
+    <value>ディスプレイモード</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>モニター</value>
+  </data>
+  <data name="Resolution" xml:space="preserve">
+    <value>解像度</value>
+  </data>
+  <data name="LauncherSettings" xml:space="preserve">
+    <value>ランチャー設定</value>
+  </data>
+  <data name="LauncherLanguage" xml:space="preserve">
+    <value>ランチャー言語</value>
+  </data>
+  <data name="HomepageBackground" xml:space="preserve">
+    <value>ホーム背景</value>
+  </data>
+  <data name="Windowed" xml:space="preserve">
+    <value>ウィンドウ</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>セーブデータ：</value>
+  </data>
+  <data name="VanillaGame" xml:space="preserve">
+    <value>バニラ版</value>
+  </data>
+  <data name="SteamHomepage" xml:space="preserve">
+    <value>Steamホーム画面</value>
+  </data>
+  <data name="SteamHomepageDescription" xml:space="preserve">
+    <value>ゲームの購入及び最新情報を確認。</value>
+  </data>
+  <data name="PlayerCommunity" xml:space="preserve">
+    <value>コミュニティ</value>
+  </data>
+  <data name="OfficialDiscord" xml:space="preserve">
+    <value>公式Discord</value>
+  </data>
+  <data name="OfficialDiscordDescription" xml:space="preserve">
+    <value>他のプレイヤーと交流する。</value>
+  </data>
+  <data name="ExternalLink" xml:space="preserve">
+    <value>外部リンク</value>
+  </data>
+  <data name="ViewWorkshopPageButton" xml:space="preserve">
+    <value>ホームページを見る</value>
+  </data>
+  <data name="IntroductionTab" xml:space="preserve">
+    <value>紹介</value>
+  </data>
+  <data name="ChangelogTab" xml:space="preserve">
+    <value>更新日記</value>
+  </data>
+  <data name="DependenciesTab" xml:space="preserve">
+    <value>依存</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>見つかりませんでした</value>
+  </data>
+  <data name="GameLaunched" xml:space="preserve">
+    <value>少女祈祷中…</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>ModTheLBoL</value>
+  </data>
+  <data name="RefreshButton" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="OpenFolderButton" xml:space="preserve">
+    <value>フォルダを開く</value>
+  </data>
+  <data name="RemoveProfileTooltip" xml:space="preserve">
+    <value>セーブデータを削除</value>
+  </data>
+  <data name="FilterByTagsLabel" xml:space="preserve">
+    <value>タグ検索</value>
+  </data>
+  <data name="SortCustom" xml:space="preserve">
+    <value>カスタム</value>
+  </data>
+  <data name="AuthorLabel" xml:space="preserve">
+    <value>作者</value>
+  </data>
+  <data name="ModVersionLabel" xml:space="preserve">
+    <value>バージョン</value>
+  </data>
+  <data name="NewProfileTitle" xml:space="preserve">
+    <value>新規セーブデータ</value>
+  </data>
+  <data name="ProfileNameLabel" xml:space="preserve">
+    <value>セーブデータ名：</value>
+  </data>
+  <data name="ProfileNameCannotBeEmpty" xml:space="preserve">
+    <value>名前が未入力です</value>
+  </data>
+  <data name="LBoLNotFoundError" xml:space="preserve">
+    <value>現在のディレクトリからLBoL.exeが見つかりません。</value>
+  </data>
+  <data name="PublishModError" xml:space="preserve">
+    <value>Mod公開時のエラー：{0}</value>
+  </data>
+  <data name="CannotDeleteLastProfile" xml:space="preserve">
+    <value>削除に失敗しました。少なくとも一つセーブデータが存在する必要があります。</value>
+  </data>
+  <data name="DeleteProfileWarning" xml:space="preserve">
+    <value>このセーブデータを完全に削除します。再度決定を選んでください。</value>
+  </data>
+  <data name="ProfileDeletedSuccessfully" xml:space="preserve">
+    <value>セーブデータ'{0}'を削除しました</value>
+  </data>
+  <data name="GameLanguage" xml:space="preserve">
+    <value>ゲーム言語</value>
+  </data>
+  <data name="Fullscreen" xml:space="preserve">
+    <value>フルスクリーン</value>
+  </data>
+  <data name="StartGame" xml:space="preserve">
+    <value>ゲーム開始</value>
+  </data>
+  <data name="SteamWorkshop" xml:space="preserve">
+    <value>Steamワークショップ</value>
+  </data>
+  <data name="SteamWorkshopDescription" xml:space="preserve">
+    <value>Modの検索、導入を行う。</value>
+  </data>
+  <data name="ModManagement" xml:space="preserve">
+    <value>Mod管理</value>
+  </data>
+  <data name="ViewFolderButton" xml:space="preserve">
+    <value>フォルダを開く</value>
+  </data>
+  <data name="OpenFolderError" xml:space="preserve">
+    <value>フォルダを開けませんでした：{0}</value>
+  </data>
+  <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
+    <value>依存Modが不足しています</value>
+  </data>
 </root>
