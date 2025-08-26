@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AddProfileTooltip" xml:space="preserve">
+    <value>프로필 추가</value>
+  </data>
+  <data name="ProfileNamePlaceholder" xml:space="preserve">
+    <value>프로필 이름을 입력해주세요</value>
+  </data>
+  <data name="ConfirmButton" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="RemoveProfileTooltip" xml:space="preserve">
+    <value>프로필 삭제</value>
+  </data>
+  <data name="PlayButton" xml:space="preserve">
+    <value>게임 실행</value>
+  </data>
+  <data name="PublishButton" xml:space="preserve">
+    <value>게시</value>
+  </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>모드 검색...</value>
+  </data>
+  <data name="SortByLabel" xml:space="preserve">
+    <value>정렬</value>
+  </data>
+  <data name="FilterByTagsLabel" xml:space="preserve">
+    <value>태그로 정렬</value>
+  </data>
+  <data name="SortCustom" xml:space="preserve">
+    <value>커스텀</value>
+  </data>
+  <data name="SortByAuthor" xml:space="preserve">
+    <value>제작자</value>
+  </data>
+  <data name="SortByTitle" xml:space="preserve">
+    <value>이름</value>
+  </data>
+  <data name="AllTags" xml:space="preserve">
+    <value>전체</value>
+  </data>
+  <data name="ModVersionLabel" xml:space="preserve">
+    <value>모드 버전</value>
+  </data>
+  <data name="GUIDLabel" xml:space="preserve">
+    <value>GUID</value>
+  </data>
+  <data name="DependenciesLabel" xml:space="preserve">
+    <value>의존</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>상태</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>설명</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>없음</value>
+  </data>
+  <data name="StatusEnabled" xml:space="preserve">
+    <value>활성</value>
+  </data>
+  <data name="EnterProfileNameMessage" xml:space="preserve">
+    <value>프로필 이름을 입력해주세요.</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="ProfileNameLabel" xml:space="preserve">
+    <value>프로필 이름:</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>오류</value>
+  </data>
+  <data name="ProfileNameCannotBeEmpty" xml:space="preserve">
+    <value>프로필 이름은 비워둘 수 없습니다.</value>
+  </data>
+  <data name="LaunchGameError" xml:space="preserve">
+    <value>게임 실행 중 오류 발생: {0}</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>경고</value>
+  </data>
+  <data name="CannotDeleteTitle" xml:space="preserve">
+    <value>삭제 실패</value>
+  </data>
+  <data name="CannotDeleteLastProfile" xml:space="preserve">
+    <value>삭제에 실패했습니다. 최소한 한 개 이상의 프로필이 있어야 합니다.</value>
+  </data>
+  <data name="ConfirmTitle" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="SuccessTitle" xml:space="preserve">
+    <value>성공</value>
+  </data>
+  <data name="ProfileCreatedSuccessfully" xml:space="preserve">
+    <value>'{0}' 이(가) 성공적으로 생성되었습니다</value>
+  </data>
+  <data name="ProfileUpdatedSuccessfully" xml:space="preserve">
+    <value>'{0}' 이(가) 성공적으로 업데이트되었습니다</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="GameSettings" xml:space="preserve">
+    <value>게임 설정</value>
+  </data>
+  <data name="GameLanguage" xml:space="preserve">
+    <value>게임 언어</value>
+  </data>
+  <data name="DisplayMode" xml:space="preserve">
+    <value>표시 모드</value>
+  </data>
+  <data name="Resolution" xml:space="preserve">
+    <value>해상도</value>
+  </data>
+  <data name="LauncherSettings" xml:space="preserve">
+    <value>런처 설정</value>
+  </data>
+  <data name="LauncherLanguage" xml:space="preserve">
+    <value>런처 언어</value>
+  </data>
+  <data name="HomepageBackground" xml:space="preserve">
+    <value>메인 화면 배경</value>
+  </data>
+  <data name="Fullscreen" xml:space="preserve">
+    <value>전체 화면</value>
+  </data>
+  <data name="StartGame" xml:space="preserve">
+    <value>게임 실행</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>프로필:</value>
+  </data>
+  <data name="VanillaGame" xml:space="preserve">
+    <value>기본 게임</value>
+  </data>
+  <data name="SteamWorkshop" xml:space="preserve">
+    <value>Steam 창작 마당</value>
+  </data>
+  <data name="SteamWorkshopDescription" xml:space="preserve">
+    <value>모드를 탐색하고, 구독하고, 다운로드합니다.</value>
+  </data>
+  <data name="PlayerCommunity" xml:space="preserve">
+    <value>커뮤니티</value>
+  </data>
+  <data name="OfficialDiscord" xml:space="preserve">
+    <value>공식 Discord</value>
+  </data>
+  <data name="ModManagement" xml:space="preserve">
+    <value>모드 관리</value>
+  </data>
+  <data name="ViewFolderButton" xml:space="preserve">
+    <value>폴더 보기</value>
+  </data>
+  <data name="ViewWorkshopPageButton" xml:space="preserve">
+    <value>창작 마당 페이지 보기</value>
+  </data>
+  <data name="IntroductionTab" xml:space="preserve">
+    <value>소개</value>
+  </data>
+  <data name="ChangelogTab" xml:space="preserve">
+    <value>변경 사항</value>
+  </data>
+  <data name="DependenciesTab" xml:space="preserve">
+    <value>의존</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>찾을 수 없음</value>
+  </data>
+  <data name="GameLaunched" xml:space="preserve">
+    <value>소녀기도중...</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>ModTheLBoL</value>
+  </data>
+  <data name="RefreshButton" xml:space="preserve">
+    <value>새로고침</value>
+  </data>
+  <data name="OpenFolderButton" xml:space="preserve">
+    <value>폴더 열기</value>
+  </data>
+  <data name="DeleteProfileTooltip" xml:space="preserve">
+    <value>프로필 삭제</value>
+  </data>
+  <data name="CopyProfileTooltip" xml:space="preserve">
+    <value>프로필 복사</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>필터...</value>
+  </data>
+  <data name="SortByUpdateTime" xml:space="preserve">
+    <value>최근 업데이트</value>
+  </data>
+  <data name="TagMod" xml:space="preserve">
+    <value>모드</value>
+  </data>
+  <data name="TagExample" xml:space="preserve">
+    <value>예시</value>
+  </data>
+  <data name="AuthorLabel" xml:space="preserve">
+    <value>제작자</value>
+  </data>
+  <data name="StatusDisabled" xml:space="preserve">
+    <value>비활성</value>
+  </data>
+  <data name="NewProfileTitle" xml:space="preserve">
+    <value>새 프로필</value>
+  </data>
+  <data name="ProfileExistsError" xml:space="preserve">
+    <value>같은 이름의 프로필이 존재합니다.</value>
+  </data>
+  <data name="LBoLNotFoundError" xml:space="preserve">
+    <value>현재 디렉토리에 LBoL.exe를 찾을 수 없습니다.</value>
+  </data>
+  <data name="PublishModError" xml:space="preserve">
+    <value>모드 게시 중 오류 발생: {0}</value>
+  </data>
+  <data name="SelectProfileWarning" xml:space="preserve">
+    <value>게임 실행 전 모드를 선택해 주세요.</value>
+  </data>
+  <data name="DiscardChangesWarning" xml:space="preserve">
+    <value>저장되지 않은 변경 사항이 있습니다. "취소"를 다시 눌러 이 변경 사항을 무시합니다.</value>
+  </data>
+  <data name="DeleteProfileWarning" xml:space="preserve">
+    <value>이는 영구적으로 해당 프로필을 삭제할 것입니다. "삭제" 버튼을 다시 눌러 삭제합니다.</value>
+  </data>
+  <data name="PublishSuccessMessage" xml:space="preserve">
+    <value>'{0}' 모드가 성공적으로 게시되었습니다!</value>
+  </data>
+  <data name="ProfileDeletedSuccessfully" xml:space="preserve">
+    <value>'{0}' 이(가) 성공적으로 삭제되었습니다</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>모니터</value>
+  </data>
+  <data name="Windowed" xml:space="preserve">
+    <value>창모드</value>
+  </data>
+  <data name="SteamHomepage" xml:space="preserve">
+    <value>스팀 홈페이지</value>
+  </data>
+  <data name="SteamHomepageDescription" xml:space="preserve">
+    <value>게임을 구매하거나 게임의 최신 정보를 확인합니다.</value>
+  </data>
+  <data name="OfficialDiscordDescription" xml:space="preserve">
+    <value>다른 플레이어들과 소통하고 교류합니다.</value>
+  </data>
+  <data name="ExternalLink" xml:space="preserve">
+    <value>외부 링크</value>
+  </data>
+  <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
+    <value>모드 의존성이 충족되지 않았습니다</value>
+  </data>
+  <data name="OpenFolderError" xml:space="preserve">
+    <value>폴더를 여는 도중 문제가 발생했습니다: {0}</value>
+  </data>
 </root>
