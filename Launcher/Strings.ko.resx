@@ -104,7 +104,7 @@
     <value>GUID</value>
   </data>
   <data name="DependenciesLabel" xml:space="preserve">
-    <value>의존</value>
+    <value>필요 모드</value>
   </data>
   <data name="StatusLabel" xml:space="preserve">
     <value>상태</value>
@@ -182,7 +182,7 @@
     <value>런처 언어</value>
   </data>
   <data name="HomepageBackground" xml:space="preserve">
-    <value>메인 화면 배경</value>
+    <value>홈 배경</value>
   </data>
   <data name="Fullscreen" xml:space="preserve">
     <value>전체 화면</value>
@@ -311,7 +311,7 @@
     <value>외부 링크</value>
   </data>
   <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
-    <value>모드 의존성이 충족되지 않았습니다</value>
+    <value>필요 모드가 충족되지 않았습니다</value>
   </data>
   <data name="OpenFolderError" xml:space="preserve">
     <value>폴더를 여는 도중 문제가 발생했습니다: {0}</value>
