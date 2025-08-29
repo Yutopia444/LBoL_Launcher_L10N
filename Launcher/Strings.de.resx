@@ -221,7 +221,7 @@
     <value>Fehler beim Öffnen des Verzeichnisses: {0}</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>Die Mädchen beginnen zu beten...</value>
+    <value>Die Mädchen beginnen zu beten ...</value>
   </data>
   <data name="PublishModError" xml:space="preserve">
     <value>Fehler bei der Veröffentlichung des Mods: {0}</value>
