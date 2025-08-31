@@ -182,7 +182,7 @@
     <value>Error while publishing mod: {0}</value>
   </data>
   <data name="LBoLNotFoundError" xml:space="preserve">
-    <value>Error: Unable to locate LBoL.exe in the current directory.</value>
+    <value>Unable to locate LBoL.exe in the current directory.</value>
   </data>
   <data name="CannotDeleteTitle" xml:space="preserve">
     <value>Deletion Failed</value>
