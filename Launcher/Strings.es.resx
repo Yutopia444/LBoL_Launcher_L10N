@@ -143,7 +143,7 @@
     <value>Ya existe un perfil con este nombre.</value>
   </data>
   <data name="LBoLNotFoundError" xml:space="preserve">
-    <value>Error: No se puede encontrar LBoL.exe en el directorio actual.</value>
+    <value>No se puede encontrar LBoL.exe en el directorio actual.</value>
   </data>
   <data name="LaunchGameError" xml:space="preserve">
     <value>Error al iniciar el juego: {0}</value>
