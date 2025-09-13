@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="OpenFolderButton" xml:space="preserve">
+    <value>Mở Thư Mục</value>
+  </data>
+  <data name="RefreshButton" xml:space="preserve">
+    <value>Làm Mới</value>
+  </data>
+  <data name="AddProfileTooltip" xml:space="preserve">
+    <value>Hồ Sơ Mới</value>
+  </data>
+  <data name="DeleteProfileTooltip" xml:space="preserve">
+    <value>Xóa Hồ Sơ</value>
+  </data>
+  <data name="ConfirmButton" xml:space="preserve">
+    <value>Xác Nhận</value>
+  </data>
+  <data name="CopyProfileTooltip" xml:space="preserve">
+    <value>Nhân Bản Hồ Sơ</value>
+  </data>
+  <data name="RemoveProfileTooltip" xml:space="preserve">
+    <value>Xóa Hồ Sơ</value>
+  </data>
+  <data name="PublishButton" xml:space="preserve">
+    <value>Tải Lên</value>
+  </data>
+  <data name="FilterPlaceholder" xml:space="preserve">
+    <value>Đang Lọc...</value>
+  </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>Đang tìm bản mod...</value>
+  </data>
+  <data name="SortByLabel" xml:space="preserve">
+    <value>Sắp Xếp Theo</value>
+  </data>
+  <data name="FilterByTagsLabel" xml:space="preserve">
+    <value>Lọc Theo Nhãn</value>
+  </data>
+  <data name="SortCustom" xml:space="preserve">
+    <value>Tự Thiết Lập</value>
+  </data>
+  <data name="SortByTitle" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="TagMod" xml:space="preserve">
+    <value>Mod</value>
+  </data>
+  <data name="TagExample" xml:space="preserve">
+    <value>Ví Dụ</value>
+  </data>
+  <data name="AuthorLabel" xml:space="preserve">
+    <value>Tác Giả</value>
+  </data>
+  <data name="ModVersionLabel" xml:space="preserve">
+    <value>Phiên Bản</value>
+  </data>
+  <data name="GUIDLabel" xml:space="preserve">
+    <value>GUID</value>
+  </data>
+  <data name="DependenciesLabel" xml:space="preserve">
+    <value>Phụ Thuộc</value>
+  </data>
+  <data name="StatusLabel" xml:space="preserve">
+    <value>Trạng Thái</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Không</value>
+  </data>
+  <data name="StatusEnabled" xml:space="preserve">
+    <value>Đã Bật</value>
+  </data>
+  <data name="StatusDisabled" xml:space="preserve">
+    <value>Đã Tắt</value>
+  </data>
+  <data name="NewProfileTitle" xml:space="preserve">
+    <value>Hồ Sơ Mới</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>Hủy</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>Đồng Ý</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Lỗi</value>
+  </data>
+  <data name="ProfileExistsError" xml:space="preserve">
+    <value>Đã tồn tại hồ sơ với tên tương tự.</value>
+  </data>
+  <data name="ProfileNameCannotBeEmpty" xml:space="preserve">
+    <value>Tên hồ sơ không được bỏ trống</value>
+  </data>
+  <data name="PublishModError" xml:space="preserve">
+    <value>Lỗi khi tải lên mod: {0}</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>Nhắc Nhở</value>
+  </data>
+  <data name="CannotDeleteTitle" xml:space="preserve">
+    <value>Xóa Bỏ Thất Bại</value>
+  </data>
+  <data name="CannotDeleteLastProfile" xml:space="preserve">
+    <value>Xóa bỏ không thành công. Phải giữ lại ít nhất một hồ sơ.</value>
+  </data>
+  <data name="ConfirmTitle" xml:space="preserve">
+    <value>Xác Nhận</value>
+  </data>
+  <data name="DeleteProfileWarning" xml:space="preserve">
+    <value>Thao tác này sẽ xóa vĩnh viễn hồ sơ này. Nhấp "Xóa" lần nữa để xác nhận.</value>
+  </data>
+  <data name="SuccessTitle" xml:space="preserve">
+    <value>Thành Công</value>
+  </data>
+  <data name="ProfileCreatedSuccessfully" xml:space="preserve">
+    <value>Hồ sơ '{0}' đã được tạo</value>
+  </data>
+  <data name="ProfileUpdatedSuccessfully" xml:space="preserve">
+    <value>Hồ sơ '{0}' đã được cập nhật</value>
+  </data>
+  <data name="ProfileDeletedSuccessfully" xml:space="preserve">
+    <value>Đã xóa hồ sơ '{0}'</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Cài Đặt</value>
+  </data>
+  <data name="GameSettings" xml:space="preserve">
+    <value>Cài Đặt Trò Chơi</value>
+  </data>
+  <data name="GameLanguage" xml:space="preserve">
+    <value>Cài Đặt Ngôn Ngữ</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>Màn Hình</value>
+  </data>
+  <data name="Resolution" xml:space="preserve">
+    <value>Độ Phân Giải</value>
+  </data>
+  <data name="LauncherSettings" xml:space="preserve">
+    <value>Cài Đặt Trình Khởi Chạy</value>
+  </data>
+  <data name="Fullscreen" xml:space="preserve">
+    <value>Toàn Màn Hình</value>
+  </data>
+  <data name="Windowed" xml:space="preserve">
+    <value>Cửa Sổ</value>
+  </data>
+  <data name="StartGame" xml:space="preserve">
+    <value>Bắt Đầu</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Hồ Sơ:</value>
+  </data>
+  <data name="VanillaGame" xml:space="preserve">
+    <value>Trò Chơi Gốc</value>
+  </data>
+  <data name="SteamWorkshop" xml:space="preserve">
+    <value>Steam Workshop</value>
+  </data>
+  <data name="OfficialDiscord" xml:space="preserve">
+    <value>Discord chính thức</value>
+  </data>
+  <data name="ModManagement" xml:space="preserve">
+    <value>Quản lý Mod</value>
+  </data>
+  <data name="ExternalLink" xml:space="preserve">
+    <value>Đường dẫn ngoài</value>
+  </data>
+  <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
+    <value>Phụ thuộc bị thiếu</value>
+  </data>
+  <data name="IntroductionTab" xml:space="preserve">
+    <value>Giới Thiệu</value>
+  </data>
+  <data name="ChangelogTab" xml:space="preserve">
+    <value>Nhật Ký Cập Nhật</value>
+  </data>
+  <data name="DependenciesTab" xml:space="preserve">
+    <value>Phụ Thuộc</value>
+  </data>
+  <data name="OpenFolderError" xml:space="preserve">
+    <value>Lỗi khi mở thư mục: {0}</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>Không tìm thấy</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>ModTheLBoL</value>
+  </data>
+  <data name="ProfileNamePlaceholder" xml:space="preserve">
+    <value>Nhập tên cho hồ sơ mới này</value>
+  </data>
+  <data name="PlayButton" xml:space="preserve">
+    <value>Khởi Chạy Trò Chơi</value>
+  </data>
+  <data name="SortByUpdateTime" xml:space="preserve">
+    <value>Cập Nhật Gần Nhất</value>
+  </data>
+  <data name="SortByAuthor" xml:space="preserve">
+    <value>Tác Giả</value>
+  </data>
+  <data name="AllTags" xml:space="preserve">
+    <value>Tất Cả</value>
+  </data>
+  <data name="DescriptionLabel" xml:space="preserve">
+    <value>Mô Tả</value>
+  </data>
+  <data name="EnterProfileNameMessage" xml:space="preserve">
+    <value>Nhập tên cho hồ sơ mới này.</value>
+  </data>
+  <data name="ProfileNameLabel" xml:space="preserve">
+    <value>Tên Hồ Sơ:</value>
+  </data>
+  <data name="LBoLNotFoundError" xml:space="preserve">
+    <value>Không tìm thấy LBoL.exe trong thư mục hiện tại.</value>
+  </data>
+  <data name="LaunchGameError" xml:space="preserve">
+    <value>Lỗi khi khởi chạy game: {0}</value>
+  </data>
+  <data name="SelectProfileWarning" xml:space="preserve">
+    <value>Hãy chọn một hồ sơ để khởi chạy trò chơi.</value>
+  </data>
+  <data name="DiscardChangesWarning" xml:space="preserve">
+    <value>Còn có chỉnh sửa chưa được lưu. Nhấp "Hủy" lần nữa để xóa bỏ các thay đổi này.</value>
+  </data>
+  <data name="PublishSuccessMessage" xml:space="preserve">
+    <value>'{0}' đã được tải lên thành công!</value>
+  </data>
+  <data name="DisplayMode" xml:space="preserve">
+    <value>Chế Độ Hiển Thị</value>
+  </data>
+  <data name="LauncherLanguage" xml:space="preserve">
+    <value>Ngôn Ngữ Trình Khởi Chạy</value>
+  </data>
+  <data name="HomepageBackground" xml:space="preserve">
+    <value>Hình Nền Trang Chủ</value>
+  </data>
+  <data name="SteamHomepage" xml:space="preserve">
+    <value>Trang chủ Steam</value>
+  </data>
+  <data name="SteamHomepageDescription" xml:space="preserve">
+    <value>Mua và xem thông tin mới nhất về trò chơi.</value>
+  </data>
+  <data name="SteamWorkshopDescription" xml:space="preserve">
+    <value>Duyệt, đăng ký và tải mod.</value>
+  </data>
+  <data name="PlayerCommunity" xml:space="preserve">
+    <value>Cộng đồng</value>
+  </data>
+  <data name="OfficialDiscordDescription" xml:space="preserve">
+    <value>Thảo luận trò chơi với người chơi khác.</value>
+  </data>
+  <data name="ViewFolderButton" xml:space="preserve">
+    <value>Xem Thư Mục</value>
+  </data>
+  <data name="ViewWorkshopPageButton" xml:space="preserve">
+    <value>Xem Trang Chủ</value>
+  </data>
+  <data name="GameLaunched" xml:space="preserve">
+    <value>Các thiếu nữ đang cầu nguyện...</value>
+  </data>
 </root>
