@@ -77,7 +77,7 @@
     <value>Profil löschen</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>Filtern...</value>
+    <value>Filtern …</value>
   </data>
   <data name="PublishButton" xml:space="preserve">
     <value>Veröffentlichen</value>
@@ -107,7 +107,7 @@
     <value>GUID</value>
   </data>
   <data name="ModVersionLabel" xml:space="preserve">
-    <value>Mod Version</value>
+    <value>Mod-Version</value>
   </data>
   <data name="None" xml:space="preserve">
     <value>Keine</value>
@@ -221,7 +221,7 @@
     <value>Fehler beim Öffnen des Verzeichnisses: {0}</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>Die Mädchen beginnen zu beten ...</value>
+    <value>Die Mädchen beginnen zu beten …</value>
   </data>
   <data name="PublishModError" xml:space="preserve">
     <value>Fehler bei der Veröffentlichung des Mods: {0}</value>
@@ -269,7 +269,7 @@
     <value>Profil kopieren</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Suche Mods...</value>
+    <value>Suche Mods …</value>
   </data>
   <data name="StartGame" xml:space="preserve">
     <value>Spiel starten</value>
@@ -296,7 +296,7 @@
     <value>Profilname:</value>
   </data>
   <data name="LBoLNotFoundError" xml:space="preserve">
-    <value>Fehler: LBoL.exe wurde im aktuellen Verzeichnis nicht gefunden.</value>
+    <value>Fehler: Die ausführbare Datei 'LBoL' wurde im aktuellen Verzeichnis nicht gefunden.</value>
   </data>
   <data name="CannotDeleteTitle" xml:space="preserve">
     <value>Löschen fehlgeschlagen</value>
@@ -315,5 +315,38 @@
   </data>
   <data name="VanillaGame" xml:space="preserve">
     <value>Originalspiel</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Mod erstellen</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>Bitte den Namen des Mods eingeben</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>Hauptbildschirm</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>Bildschirm {0}</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Mod existiert bereits</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Mod wurde erfolgreich erstellt</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Mod konnte nicht erstellt werden</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Verzeichnis des Mods konnte nicht gefunden werden</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>Name des Mods darf nicht leer sein</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>Name des Mods enthält ungültige Zeichen</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>Entwicklermodus</value>
   </data>
 </root>
