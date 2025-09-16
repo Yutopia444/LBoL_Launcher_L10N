@@ -98,10 +98,10 @@
   
   <!-- 标签 -->
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>筛选...</value>
+    <value>筛选…</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>搜索模组...</value>
+    <value>搜索模组…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>排序方式</value>
@@ -192,7 +192,7 @@
     <value>档案名称不能为空</value>
   </data>
   <data name="LBoLNotFoundError" xml:space="preserve">
-    <value>当前目录未找到 LBoL.exe。</value>
+    <value>当前目录未找到 LBoL 可执行文件。</value>
   </data>
   <data name="LaunchGameError" xml:space="preserve">
     <value>启动游戏失败：{0}</value>
@@ -259,6 +259,12 @@
   <data name="Monitor" xml:space="preserve">
     <value>显示器</value>
   </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>主显示器</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>显示器 {0}</value>
+  </data>
   <data name="Resolution" xml:space="preserve">
     <value>分辨率</value>
   </data>
@@ -270,6 +276,33 @@
   </data>
   <data name="HomepageBackground" xml:space="preserve">
     <value>主页背景</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>开发者模式</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>创建Mod</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>请输入Mod名称</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>Mod名称不能为空</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>Mod名称包含无效字符</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Mod目录未找到</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Mod已存在</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Mod创建成功</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Mod创建失败</value>
   </data>
   <data name="Fullscreen" xml:space="preserve">
     <value>全屏</value>
@@ -340,6 +373,6 @@
     <value>未找到</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>少女祈祷中...</value>
+    <value>少女祈祷中……</value>
   </data>
 </root>
