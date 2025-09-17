@@ -239,7 +239,7 @@
     <value>見つかりませんでした</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>少女祈祷中…</value>
+    <value>少女祈祷中……</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>ModTheLBoL</value>
@@ -275,7 +275,7 @@
     <value>名前が未入力です</value>
   </data>
   <data name="LBoLNotFoundError" xml:space="preserve">
-    <value>現在のディレクトリからLBoL.exeが見つかりません。</value>
+    <value>現在のディレクトリからLBoLの実行ファイルが見つかりません。</value>
   </data>
   <data name="PublishModError" xml:space="preserve">
     <value>Mod公開時のエラー：{0}</value>
@@ -315,5 +315,38 @@
   </data>
   <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
     <value>依存Modが不足しています</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>メインモニター</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>モニター{0}</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Mod作成</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>名称は空白にできません</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>名称に有効でない文字が含まれています</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Modフォルダが見つかりません</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Modの作成に成功しました</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>開発者モード</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>このModの名前を入力して下さい</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>このModは既に存在します</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Modの作成に失敗しました</value>
   </data>
 </root>
