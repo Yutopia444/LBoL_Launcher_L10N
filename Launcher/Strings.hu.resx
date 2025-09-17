@@ -77,7 +77,7 @@
     <value>Közzétesz</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>Szűrés...</value>
+    <value>Szűrés…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>Rendezés</value>
@@ -218,7 +218,7 @@
     <value>Függőségek</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>A lányok imádkoznak...</value>
+    <value>A lányok imádkoznak……</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>ModTheLBoL</value>
@@ -236,7 +236,7 @@
     <value>Profil Törlése</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Modok keresése...</value>
+    <value>Modok keresése…</value>
   </data>
   <data name="SortByUpdateTime" xml:space="preserve">
     <value>Legutóbb Frissítve</value>
@@ -315,5 +315,38 @@
   </data>
   <data name="NotFound" xml:space="preserve">
     <value>Nem talált</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>Fő Képernyő</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>Monitor {0}</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>Fejlesztői Mód</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>A mod neve nem lehet üres.</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>A mod neve érvénytelen karaktereket tartalmaz.</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Mod mappa nem található.</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Ez a mod már létezik.</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Készítő Mód</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>Adj meg egy nevet ennek a modnak.</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Mod sikeresen létrehozva!</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Mod létrehozása sikertelen.</value>
   </data>
 </root>
