@@ -77,10 +77,10 @@
     <value>發布</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>篩選...</value>
+    <value>篩選…</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>探索模組...</value>
+    <value>探索模組…</value>
   </data>
   <data name="SortCustom" xml:space="preserve">
     <value>自定義</value>
@@ -137,7 +137,7 @@
     <value>同名配置已存在。</value>
   </data>
   <data name="LBoLNotFoundError" xml:space="preserve">
-    <value>目前目錄未找到 LBoL.exe。</value>
+    <value>目前目錄未找到 LBoL 可執行文件。</value>
   </data>
   <data name="LaunchGameError" xml:space="preserve">
     <value>啟動遊戲失敗：{0}</value>
@@ -230,7 +230,7 @@
     <value>依賴</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>少女祈禱用...</value>
+    <value>少女祈禱中……</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>ModTheLBoL</value>
@@ -315,5 +315,38 @@
   </data>
   <data name="NotFound" xml:space="preserve">
     <value>未找到</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>主顯示器</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>開發者模式</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>請輸入mod名稱</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>Mod名稱不能為空</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>Mod名稱包含無效字符</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Mod目錄未找到</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Mod創建成功</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Mod創建失敗</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>顯示器 {0}</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>創建mod</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Mod已存在</value>
   </data>
 </root>
