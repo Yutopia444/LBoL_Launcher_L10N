@@ -86,7 +86,7 @@
     <value>Publish</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Searching for mods...</value>
+    <value>Searching for mods…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>Sort By</value>
@@ -158,7 +158,7 @@
     <value>Delete Profile</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>Filtering...</value>
+    <value>Filtering…</value>
   </data>
   <data name="SortByUpdateTime" xml:space="preserve">
     <value>Latest Updated</value>
@@ -269,7 +269,7 @@
     <value>Dependencies</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>Girls are now praying...</value>
+    <value>Girls are now praying…</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Settings</value>
@@ -315,5 +315,38 @@
   </data>
   <data name="SteamWorkshopDescription" xml:space="preserve">
     <value>Browse, subscribe to, and download mods.</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>Main Monitor</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>Monitor {0}</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Create Mod</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>Mod name cannot be empty.</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>The mod's name has invalid characters.</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>This mod already exists.</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Mod created successfully!</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Failed to create mod.</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>Developer Mode</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>Enter a name for this mod.</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Mod directory not found.</value>
   </data>
 </root>
