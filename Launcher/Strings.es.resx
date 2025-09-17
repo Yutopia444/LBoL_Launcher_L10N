@@ -89,10 +89,10 @@
     <value>Publicar</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>Filtrar...</value>
+    <value>Filtrando…</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Buscando Mods...</value>
+    <value>Buscando Mods…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>Ordenar por</value>
@@ -239,7 +239,7 @@
     <value>Autor</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>Las chicas están rezando...</value>
+    <value>Las chicas están rezando…</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>ModTheLBoL</value>
@@ -315,5 +315,38 @@
   </data>
   <data name="ChangelogTab" xml:space="preserve">
     <value>Registro de Cambios</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>Monitor Principal</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>Monitor {0}</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Crear Mod</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>El nombre del Mod no puede estar vacío</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>El nombre del mod tiene caracteres inválidos</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Directorio del mod no encontrado</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>¡Mod creado satisfactoriamente!</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Error al crear el mod</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>Modo para Desarrollador</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>Introduzca un nombre para este mod</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Este mod ya existe</value>
   </data>
 </root>
