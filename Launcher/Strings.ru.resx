@@ -77,7 +77,7 @@
     <value>Убрать Профиль</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Поиск модов...</value>
+    <value>Поиск модов…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>Сортировать по</value>
@@ -233,7 +233,7 @@
     <value>Опубликовать</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>Фильтруем...</value>
+    <value>Фильтруем…</value>
   </data>
   <data name="SortByUpdateTime" xml:space="preserve">
     <value>По дате обновления</value>
@@ -314,6 +314,39 @@
     <value>Не обнаружено</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>Девушки приступают к молитве...</value>
+    <value>Девушки приступают к молитве…</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>Монитор {0}</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Режим создателя</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>Название модификации не может быть пустым.</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Директория модификации не найдена.</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Модификация с таким именем уже существует.</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>Основной монитор</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>Режим разработчика</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>Введите название для модификации.</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>В названии есть недопустимые символы.</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Модификация успешно создана!</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Не получилось создать модификацию.</value>
   </data>
 </root>
