@@ -86,7 +86,7 @@
     <value>Lancer le jeu</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>Filtre...</value>
+    <value>Filtre…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>Trier par</value>
@@ -245,7 +245,7 @@
     <value>Non trouvé</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>Les filles sont en train de prier...</value>
+    <value>Les filles sont en train de prier……</value>
   </data>
   <data name="OpenFolderButton" xml:space="preserve">
     <value>Ouvrir le dossier</value>
@@ -254,7 +254,7 @@
     <value>Publier</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Recherche de mods...</value>
+    <value>Recherche de mods…</value>
   </data>
   <data name="FilterByTagsLabel" xml:space="preserve">
     <value>Filtrer par tags</value>
@@ -315,5 +315,38 @@
   </data>
   <data name="DependenciesTab" xml:space="preserve">
     <value>Dépendances</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>Moniteur principal</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>Moniteur {0}</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Créer un Mod</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>Mode Développeur</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>Entrez un nom pour ce mod</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>Le nom du mod ne peut pas être vide</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>Le nom du mod contient des caractères non valides</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Répertoire des mods non trouvé</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Ce mod existe déjà</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Mod créé avec succès</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Échec de la création du mod</value>
   </data>
 </root>
