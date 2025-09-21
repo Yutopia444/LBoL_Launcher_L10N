@@ -83,10 +83,10 @@
     <value>Tải Lên</value>
   </data>
   <data name="FilterPlaceholder" xml:space="preserve">
-    <value>Đang Lọc...</value>
+    <value>Đang Lọc…</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Đang tìm bản mod...</value>
+    <value>Đang tìm bản mod…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>Sắp Xếp Theo</value>
@@ -269,7 +269,7 @@
     <value>Tên Hồ Sơ:</value>
   </data>
   <data name="LBoLNotFoundError" xml:space="preserve">
-    <value>Không tìm thấy LBoL.exe trong thư mục hiện tại.</value>
+    <value>Không tìm thấy tệp thực thi LBoL trong thư mục hiện tại.</value>
   </data>
   <data name="LaunchGameError" xml:space="preserve">
     <value>Lỗi khi khởi chạy game: {0}</value>
@@ -314,6 +314,39 @@
     <value>Xem Trang Chủ</value>
   </data>
   <data name="GameLaunched" xml:space="preserve">
-    <value>Các thiếu nữ đang cầu nguyện...</value>
+    <value>Các thiếu nữ đang cầu nguyện...…</value>
+  </data>
+  <data name="PrimaryMonitor" xml:space="preserve">
+    <value>Màn Hình Chính</value>
+  </data>
+  <data name="MonitorNumber" xml:space="preserve">
+    <value>Màn Hình {0}</value>
+  </data>
+  <data name="DeveloperMode" xml:space="preserve">
+    <value>Chế độ cho nhà phát triển</value>
+  </data>
+  <data name="CreateMod" xml:space="preserve">
+    <value>Tạo Mod</value>
+  </data>
+  <data name="ModNamePlaceholder" xml:space="preserve">
+    <value>Nhập tên cho bản Mod này</value>
+  </data>
+  <data name="ModNameCannotBeEmpty" xml:space="preserve">
+    <value>Tên bản Mod không được bỏ trống</value>
+  </data>
+  <data name="InvalidModName" xml:space="preserve">
+    <value>Tên bản Mod chứa ký tự không phù hợp</value>
+  </data>
+  <data name="ModRootsNotFound" xml:space="preserve">
+    <value>Không tìm thấy thư mục bản Mod</value>
+  </data>
+  <data name="ModAlreadyExists" xml:space="preserve">
+    <value>Bản Mod này đã tồn tại</value>
+  </data>
+  <data name="ModCreatedSuccessfully" xml:space="preserve">
+    <value>Bản Mod được tạo thành công</value>
+  </data>
+  <data name="ModCreationFailed" xml:space="preserve">
+    <value>Tạo bản Mod thất bại</value>
   </data>
 </root>
