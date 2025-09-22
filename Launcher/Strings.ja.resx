@@ -83,7 +83,7 @@
     <value>ソート方式</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Modを検索中…</value>
+    <value>Modを検索</value>
   </data>
   <data name="PublishButton" xml:space="preserve">
     <value>公開</value>
