@@ -92,7 +92,7 @@
     <value>Filtrando…</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Buscando Mods…</value>
+    <value>Buscar Mods…</value>
   </data>
   <data name="SortByLabel" xml:space="preserve">
     <value>Ordenar por</value>
