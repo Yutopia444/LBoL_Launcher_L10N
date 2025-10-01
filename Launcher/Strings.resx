@@ -375,4 +375,37 @@
   <data name="GameLaunched" xml:space="preserve">
     <value>少女祈祷中……</value>
   </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 技术更新</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 最终幕更新</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>社区高光</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>官方QQ频道</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>与其他玩家共同交流讨论，多用于简体中文玩家使用。</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>社区Wiki</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>支持多种语言。</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>社区日语Wiki</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>支持日语与日语社区交流。</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>对局记录</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>查看玩家上传和分享的对局记录。</value>
+  </data>
 </root>
