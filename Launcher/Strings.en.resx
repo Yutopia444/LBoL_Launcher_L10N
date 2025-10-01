@@ -349,4 +349,37 @@
   <data name="ModRootsNotFound" xml:space="preserve">
     <value>Mod directory not found.</value>
   </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>Community Highlight</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>Official QQ Channel</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>Community Wiki</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>Supports multiple languages.</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Run Logs</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>View runs uploaded and shared by players.</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 Technical Update</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 Final Act Update</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>A place to discuss with other players, mainly used by Simplified Chinese players.</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>Japanese Community Wiki</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>Supports Japanese and Japanese community discussions.</value>
+  </data>
 </root>
