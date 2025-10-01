@@ -349,4 +349,37 @@
   <data name="ModAlreadyExists" xml:space="preserve">
     <value>Mod已存在</value>
   </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 最終幕更新</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>社區高光</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>官方QQ頻道</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>社區日語Wiki</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>支持日語與日語社區交流。</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>對局記錄</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>查看玩家上傳和分享的對局記錄。</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 技術更新</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>與其他玩家共同交流討論，多用於簡體中文玩家使用。</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>社區Wiki</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>支持多種語言。</value>
+  </data>
 </root>
