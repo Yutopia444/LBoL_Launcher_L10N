@@ -349,4 +349,37 @@
   <data name="ModAlreadyExists" xml:space="preserve">
     <value>Este mod ya existe</value>
   </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>Ver tus partidas subidas y compartidas por los jugadores.</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 Actualización Técnica</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 Actualización del Acto Final</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>Destacado de la Comunidad</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>Canal oficial de QQ</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>Un espacio para charlar con otros jugadores, sobre todo usado por quienes hablan Chino Simplificado.</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>Comunidad de la Wiki</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>Comunidad de la Wiki Japonesa</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Partidas Grabadas</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>Ofrece soporte para el idioma japonés y las charlas de la comunidad japonesa.</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>Ofrece soporte para varios idiomas.</value>
+  </data>
 </root>
