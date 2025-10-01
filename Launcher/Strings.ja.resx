@@ -349,4 +349,37 @@
   <data name="ModCreationFailed" xml:space="preserve">
     <value>Modの作成に失敗しました</value>
   </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>コミュニティ</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 テクニカルアップデート</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>複数言語に対応したWiki。</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>日本語Wiki</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>非公式Wiki</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>日本語対応Wiki。他のプレイヤーとの交流用にも。</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 最終章更新</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>公式QQチャンネル</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>主に中国語簡体字のプレイヤーが使用するコミュニティ。</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>プレイ記録</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>他のプレイヤーがアップロードしたプレイ記録を確認できる。</value>
+  </data>
 </root>
