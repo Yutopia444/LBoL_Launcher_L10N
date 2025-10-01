@@ -349,4 +349,37 @@
   <data name="ModCreationFailed" xml:space="preserve">
     <value>Не получилось создать модификацию.</value>
   </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>Официальный QQ</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>Обновление v1.8.0</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>Фан-вики</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>Поддерживает несколько языков.</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>Японская вики</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Записи</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>Обновление v1.8.0</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>Светоч сообщества</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>Общайтесь и обсуждайте проект с другими игроками (на упрощённом китайском).</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>Общайтесь с японским сообществом фанатов.</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>Просматривайте записи походов других игроков.</value>
+  </data>
 </root>
