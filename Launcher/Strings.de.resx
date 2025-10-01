@@ -349,4 +349,37 @@
   <data name="DeveloperMode" xml:space="preserve">
     <value>Entwicklermodus</value>
   </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>Unterstützt mehrere Sprachen.</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>Unterstützt die japanische Sprache und Diskussionen innerhalb der Community.</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 Technisches Update</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 Letzter Akt Update</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>Offizieller QQ-Channel</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>Community-Wiki</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>Community-Höhepunkte</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>Tausche dich mit anderen Spielern aus, unterstützt hauptsächlich vereinfachtes chinesisch.</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>Schaue dir Durchläufe an, die von anderen Spielern geteilt wurden.</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>Japanisches Community-Wiki</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Durchlauf-Historie</value>
+  </data>
 </root>
