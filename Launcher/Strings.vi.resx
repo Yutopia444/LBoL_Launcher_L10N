@@ -349,4 +349,37 @@
   <data name="ModCreationFailed" xml:space="preserve">
     <value>Tạo bản Mod thất bại</value>
   </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 Cập Nhật Chương Cuối</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>Nơi thảo luận với những người chơi khác, chủ yếu dành cho người chơi tiếng Trung giản thể.</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 Cập Nhật Kỹ Thuật</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>Nổi Bật Trong Cộng Đồng</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>Trang QQ Chính Thức</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>Wiki Cộng Đồng</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>Hỗ trợ nhiều ngôn ngữ.</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>Wiki Cộng Đồng Tiếng Nhật</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>Hỗ trợ nội dung và thảo luận tiếng Nhật.</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Nhật Ký Lượt Chạy</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>Xem các lượt chạy được tải lên và chia sẻ bởi người chơi.</value>
+  </data>
 </root>
