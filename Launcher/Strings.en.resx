@@ -382,4 +382,7 @@
   <data name="CommuityWikiJPDescription" xml:space="preserve">
     <value>Supports Japanese and Japanese community discussions.</value>
   </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>Base Steam Workshop dependency not found. Please confirm to enter the Steam Workshop, subscribe and restart the game.</value>
+  </data>
 </root>
