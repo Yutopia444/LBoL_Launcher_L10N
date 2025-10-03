@@ -349,4 +349,40 @@
   <data name="ModCreationFailed" xml:space="preserve">
     <value>Mod létrehozása sikertelen.</value>
   </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>Az alapvető műhelyfüggőség nem található. A megerősítés után átirányítunk a műhelybe. Kérjük, iratkozz fel és indítsd újra a játékot.</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 Technikai Frissítés</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 Végső Szín Frissítés</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>Közösségi Kiemelés</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>Hivatalos QQ Csatorna</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>Egy hely ahol más játékosokkal lehet beszélgetni, főképp Egyszerűsített Kínai játékosok által használt.</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>Közösségi Wiki</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>Több nyelvet is támogat.</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>Japán Közösségi Wiki</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>Támogatja a Japánt és a Japán közösségi beszélgetést.</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Futamnapló</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>Nézz más játékosok által feltöltött és megosztott futamokat.</value>
+  </data>
 </root>
