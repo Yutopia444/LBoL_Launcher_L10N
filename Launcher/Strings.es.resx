@@ -382,4 +382,7 @@
   <data name="CommuityWikiDescription" xml:space="preserve">
     <value>Ofrece soporte para varios idiomas.</value>
   </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>No se encontró el componente base de la Steam Workshop. Confirme para ir a la Steam Workshop, suscríbase y luego reinicie el juego.</value>
+  </data>
 </root>
