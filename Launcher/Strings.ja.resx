@@ -382,4 +382,7 @@
   <data name="RecordDescription" xml:space="preserve">
     <value>他のプレイヤーがアップロードしたプレイ記録を確認できる。</value>
   </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>SteamワークショップのMOD依存関係が不足しています。「決定」を押してSteamワークショップに移動し、サブスクライブ後にゲームを再起動してください。</value>
+  </data>
 </root>
