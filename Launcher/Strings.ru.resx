@@ -382,4 +382,7 @@
   <data name="RecordDescription" xml:space="preserve">
     <value>Просматривайте записи походов других игроков.</value>
   </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>Не обнаружена базовая зависимость из Steam Workshop. Пожалуйста, зайдите в Steam Workshop, подпишитесь на необходимую зависимость и перезапустите игру.</value>
+  </data>
 </root>
