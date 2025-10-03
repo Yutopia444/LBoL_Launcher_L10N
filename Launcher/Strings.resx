@@ -408,4 +408,7 @@
   <data name="RecordDescription" xml:space="preserve">
     <value>查看玩家上传和分享的对局记录。</value>
   </data>
+  <data name="BepInExNotFound" xml:space="preserve">
+    <value>没有找到基础创意工坊依赖，确定后跳转到创意工坊，请进行订阅并重启游戏。</value>
+  </data>
 </root>
