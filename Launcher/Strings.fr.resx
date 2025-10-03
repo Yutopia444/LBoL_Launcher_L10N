@@ -356,7 +356,7 @@
     <value>v1.7.0 Mise à jour de l'acte final</value>
   </data>
   <data name="OfficialQQDescription" xml:space="preserve">
-    <value>Un lieu pour discuter avec d'autres joueurs, principalement utilisé par les joueurs chinois.</value>
+    <value>Un lieu pour discuter avec les joueurs, principalement utilisé par les joueurs chinois.</value>
   </data>
   <data name="CommuityWikiDescription" xml:space="preserve">
     <value>Prend en charge plusieurs langues.</value>
@@ -381,5 +381,8 @@
   </data>
   <data name="RecordDescription" xml:space="preserve">
     <value>Affiche les parties partagées par les joueurs.</value>
+  </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>Dépendance de base du Workshop Steam introuvable. Veuillez cliquer sur OK pour accéder au Workshop Steam, vous abonner et redémarrer le jeu.</value>
   </data>
 </root>
