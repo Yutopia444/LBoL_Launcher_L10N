@@ -382,4 +382,7 @@
   <data name="Record" xml:space="preserve">
     <value>Durchlauf-Historie</value>
   </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>Grundlegende Abhängigkeit aus dem Steam-Workshop konnte nicht gefunden werden. Klicke auf Bestätigen, um den Steam-Workshop aufzurufen. Abonniere die Abhängigkeit und starte das Spiel neu.</value>
+  </data>
 </root>
