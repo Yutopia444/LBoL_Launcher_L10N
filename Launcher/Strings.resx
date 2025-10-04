@@ -411,4 +411,13 @@
   <data name="BasePluginNotFound" xml:space="preserve">
     <value>没有找到基础创意工坊依赖，确定后跳转到创意工坊，请进行订阅并重启游戏。</value>
   </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>开始模组游戏</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>开始原版游戏</value>
+  </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>(本地模组)</value>
+  </data>
 </root>
