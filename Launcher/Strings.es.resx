@@ -385,4 +385,13 @@
   <data name="BasePluginNotFound" xml:space="preserve">
     <value>No se encontró el componente base de la Steam Workshop. Confirme para ir a la Steam Workshop, suscríbase y luego reinicie el juego.</value>
   </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>Iniciar con Mods</value>
+  </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>Mods Locales</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>Iniciar sin Mods</value>
+  </data>
 </root>
