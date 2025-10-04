@@ -418,6 +418,7 @@
     <value>开始原版游戏</value>
   </data>
   <data name="LocalMods" xml:space="preserve">
-    <value>(本地模组)</value>
+    <value>本地模组</value>
   </data>
 </root>
+
