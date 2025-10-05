@@ -176,7 +176,7 @@
     <value>Разрешение</value>
   </data>
   <data name="LauncherSettings" xml:space="preserve">
-    <value>Настройки Лаунчера</value>
+    <value>Настройки лаунчера</value>
   </data>
   <data name="Fullscreen" xml:space="preserve">
     <value>Полный экран</value>
@@ -203,7 +203,7 @@
     <value>Управление модами</value>
   </data>
   <data name="ExternalLink" xml:space="preserve">
-    <value>Внешняя ссылка</value>
+    <value>Внешние ссылки</value>
   </data>
   <data name="ViewFolderButton" xml:space="preserve">
     <value>Просмотр папки</value>
@@ -281,7 +281,7 @@
     <value>Отображение</value>
   </data>
   <data name="LauncherLanguage" xml:space="preserve">
-    <value>Язык Лаунчера</value>
+    <value>Язык лаунчера</value>
   </data>
   <data name="HomepageBackground" xml:space="preserve">
     <value>Фон главного меню</value>
@@ -384,5 +384,14 @@
   </data>
   <data name="BasePluginNotFound" xml:space="preserve">
     <value>Не обнаружена базовая зависимость из Steam Workshop. Пожалуйста, зайдите в Steam Workshop, подпишитесь на необходимую зависимость и перезапустите игру.</value>
+  </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>Запустить без модов</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>Запустить с модами</value>
+  </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>Локальные моды</value>
   </data>
 </root>
