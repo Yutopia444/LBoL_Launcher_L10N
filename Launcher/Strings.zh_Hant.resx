@@ -382,4 +382,16 @@
   <data name="CommuityWikiDescription" xml:space="preserve">
     <value>支持多種語言。</value>
   </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>本地模組</value>
+  </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>沒有找到基礎創意工坊依賴，確定後跳轉到創意工坊，請進行訂閱並重啟遊戲。</value>
+  </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>開始模組遊戲</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>開始原版遊戲</value>
+  </data>
 </root>
