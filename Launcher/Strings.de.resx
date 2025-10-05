@@ -385,4 +385,13 @@
   <data name="BasePluginNotFound" xml:space="preserve">
     <value>Grundlegende Abhängigkeit aus dem Steam-Workshop konnte nicht gefunden werden. Klicke auf Bestätigen, um den Steam-Workshop aufzurufen. Abonniere die Abhängigkeit und starte das Spiel neu.</value>
   </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>Spiel mit Mods starten</value>
+  </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>Lokale Mods</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>Spiel ohne Mods starten</value>
+  </data>
 </root>
