@@ -385,4 +385,13 @@
   <data name="BasePluginNotFound" xml:space="preserve">
     <value>Dépendance de base du Workshop Steam introuvable. Veuillez cliquer sur OK pour accéder au Workshop Steam, vous abonner et redémarrer le jeu.</value>
   </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>Démarrer avec des mods</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>Démarrer sans mods</value>
+  </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>Mods locaux</value>
+  </data>
 </root>
