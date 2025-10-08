@@ -386,12 +386,15 @@
     <value>Nézz más játékosok által feltöltött és megosztott futamokat.</value>
   </data>
   <data name="StartVanillaGame" xml:space="preserve">
-    <value>Indítás Modokkal</value>
+    <value>Indítás Modok Nélkül</value>
   </data>
   <data name="StartModdedGame" xml:space="preserve">
-    <value>Indítás Modok Nélkül</value>
+    <value>Indítás Modokkal</value>
   </data>
   <data name="LocalMods" xml:space="preserve">
     <value>Helyi Modok</value>
+  </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>Bekapcsolás után hozhatsz létre/tölthetsz fel modokat.</value>
   </data>
 </root>
