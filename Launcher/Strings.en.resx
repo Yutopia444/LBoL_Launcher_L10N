@@ -386,12 +386,12 @@
     <value>Base Steam Workshop dependency not found. Please click OK to enter the Steam Workshop, subscribe and restart the game.</value>
   </data>
   <data name="StartModdedGame" xml:space="preserve">
-    <value>Start Without Mods</value>
+    <value>Start With Mods</value>
   </data>
   <data name="LocalMods" xml:space="preserve">
     <value>Local Mods</value>
   </data>
   <data name="StartVanillaGame" xml:space="preserve">
-    <value>Start With Mods</value>
+    <value>Start Without Mods</value>
   </data>
 </root>
