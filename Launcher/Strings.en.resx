@@ -394,4 +394,7 @@
   <data name="StartVanillaGame" xml:space="preserve">
     <value>Start Without Mods</value>
   </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>Enable to create or upload mods.</value>
+  </data>
 </root>
