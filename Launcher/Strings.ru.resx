@@ -394,4 +394,7 @@
   <data name="LocalMods" xml:space="preserve">
     <value>Локальные моды</value>
   </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>Позволяет создавать или загружать моды</value>
+  </data>
 </root>
