@@ -386,12 +386,15 @@
     <value>SteamワークショップのMOD依存関係が不足しています。「決定」を押してSteamワークショップに移動し、サブスクライブ後にゲームを再起動してください。</value>
   </data>
   <data name="StartVanillaGame" xml:space="preserve">
-    <value>Modを使用してゲームを開始</value>
+    <value>Mod無しでゲームを開始</value>
   </data>
   <data name="StartModdedGame" xml:space="preserve">
-    <value>Mod無しでゲームを開始</value>
+    <value>Modを使用してゲームを開始</value>
   </data>
   <data name="LocalMods" xml:space="preserve">
     <value>ローカルのMod</value>
+  </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>オンにするとModの製作、アップロードが可能になります</value>
   </data>
 </root>
