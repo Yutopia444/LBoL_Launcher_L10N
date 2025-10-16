@@ -389,9 +389,12 @@
     <value>沒有找到基礎創意工坊依賴，確定後跳轉到創意工坊，請進行訂閱並重啟遊戲。</value>
   </data>
   <data name="StartVanillaGame" xml:space="preserve">
-    <value>開始模組遊戲</value>
+    <value>開始原版遊戲</value>
   </data>
   <data name="StartModdedGame" xml:space="preserve">
-    <value>開始原版遊戲</value>
+    <value>開始模組遊戲</value>
+  </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>開啟後可進行Mod的創建/上傳操作</value>
   </data>
 </root>
