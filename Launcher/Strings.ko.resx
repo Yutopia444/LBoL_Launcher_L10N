@@ -349,4 +349,52 @@
   <data name="InvalidModName" xml:space="preserve">
     <value>모드 이름에 불가능한 문자가 포함되어 있습니다</value>
   </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>주로 일본어를 지원하는 위키입니다. 다른 플레이어와 소통 가능합니다.</value>
+  </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>모드 없이 플레이</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>모드와 함께 플레이</value>
+  </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>로컬 모드</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 테크니컬 업데이트</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 최종장 업데이트</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>커뮤니티 인기</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>공식 QQ 채널</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>다른 플레이어들과 소통할 수 있는 커뮤니티입니다 (중국어 간체).</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>비공식 위키</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>여러 언어를 지원하는 위키 페이지입니다. (한국어 미지원)</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>일본어 위키</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>다른 플레이어들의 플레이 기록을 보거나, 자신의 기록을 업로드할 수 있습니다.</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>플레이 기록</value>
+  </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>활성화하여 모드를 새로 제작하거나 업로드할 수 있습니다.</value>
+  </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>스팀 창작 마당 모드 의존성이 충족되지 않았습니다. "확인" 버튼을 눌러 스팀 창작 마당 페이지로 이동한 뒤 해당 모드를 다운로드 후 게임을 다시 시작해주세요.</value>
+  </data>
 </root>
