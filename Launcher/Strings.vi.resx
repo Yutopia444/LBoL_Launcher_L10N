@@ -383,15 +383,18 @@
     <value>Xem các lượt chạy được tải lên và chia sẻ bởi người chơi.</value>
   </data>
   <data name="StartModdedGame" xml:space="preserve">
-    <value>Bắt Đầu Trò Chơi Gốc</value>
+    <value>Bắt Đầu Trò Chơi Với Mod</value>
   </data>
   <data name="LocalMods" xml:space="preserve">
     <value>Mod Cục Bộ</value>
   </data>
   <data name="StartVanillaGame" xml:space="preserve">
-    <value>Bắt Đầu Trò Chơi Với Mod</value>
+    <value>Bắt Đầu Trò Chơi Gốc</value>
   </data>
   <data name="BasePluginNotFound" xml:space="preserve">
     <value>Không tìm thấy phụ thuộc Steam Workshop cơ bản, nhấp xác nhận để chuyển hướng đến Steam Workshop, vui lòng đăng ký rồi khởi động lại trò chơi.</value>
+  </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>Cho phép bạn tự tạo và đăng tải mod.</value>
   </data>
 </root>
