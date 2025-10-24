@@ -206,10 +206,10 @@
     <value>Внешние ссылки</value>
   </data>
   <data name="ViewFolderButton" xml:space="preserve">
-    <value>Просмотр папки</value>
+    <value>Файлы мода</value>
   </data>
   <data name="IntroductionTab" xml:space="preserve">
-    <value>Введение</value>
+    <value>Описание</value>
   </data>
   <data name="ChangelogTab" xml:space="preserve">
     <value>Лог изменений</value>
@@ -305,7 +305,7 @@
     <value>Зависимости не выполнены</value>
   </data>
   <data name="ViewWorkshopPageButton" xml:space="preserve">
-    <value>Просмотр страницы</value>
+    <value>Страница мода</value>
   </data>
   <data name="OpenFolderError" xml:space="preserve">
     <value>Ошибка при открытии папки: {0}</value>
