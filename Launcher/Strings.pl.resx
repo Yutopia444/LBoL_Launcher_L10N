@@ -349,4 +349,52 @@
   <data name="OpenFolderError" xml:space="preserve">
     <value>Błąd w otwieraniu folderu: {0}</value>
   </data>
+  <data name="StartVanillaGame" xml:space="preserve">
+    <value>Uruchom bez Modów</value>
+  </data>
+  <data name="LocalMods" xml:space="preserve">
+    <value>Lokalne Mody</value>
+  </data>
+  <data name="Ver180Update" xml:space="preserve">
+    <value>v1.8.0 Aktualizacja Techniczna</value>
+  </data>
+  <data name="Ver170Update" xml:space="preserve">
+    <value>v1.7.0 Aktualizacja Aktu Finałowego</value>
+  </data>
+  <data name="CommunityHighlight" xml:space="preserve">
+    <value>Polecane od Społeczności</value>
+  </data>
+  <data name="OfficialQQ" xml:space="preserve">
+    <value>Oficjalny Kanał QQ</value>
+  </data>
+  <data name="OfficialQQDescription" xml:space="preserve">
+    <value>Miejsce do dyskusji z innymi graczami, używane głównie przez chińskich graczy.</value>
+  </data>
+  <data name="CommuityWiki" xml:space="preserve">
+    <value>Wiki Społeczności</value>
+  </data>
+  <data name="CommuityWikiDescription" xml:space="preserve">
+    <value>Wspiera wiele języków.</value>
+  </data>
+  <data name="CommuityWikiJP" xml:space="preserve">
+    <value>Japońska Wiki Społeczności</value>
+  </data>
+  <data name="CommuityWikiJPDescription" xml:space="preserve">
+    <value>Wspierana po japońsku oraz dla dyskusji w języku japońskim.</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Dziennik Przejść</value>
+  </data>
+  <data name="RecordDescription" xml:space="preserve">
+    <value>Zobacz przejścia przesłane i udostępnione przez graczy.</value>
+  </data>
+  <data name="BasePluginNotFound" xml:space="preserve">
+    <value>Bazowa dependencja Steam Workshop nie została znaleziona. Naciśnij OK by wejść do Steam Workshop, zasubskrybować i uruchomić grę ponownie.</value>
+  </data>
+  <data name="StartModdedGame" xml:space="preserve">
+    <value>Uruchom z Modami</value>
+  </data>
+  <data name="DeveloperModeDescription" xml:space="preserve">
+    <value>Włącz by tworzyć i wysyłać mody.</value>
+  </data>
 </root>
