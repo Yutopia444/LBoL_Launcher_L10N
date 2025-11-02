@@ -423,4 +423,10 @@
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>开启后可进行Mod的创建/上传操作</value>
   </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>韩语社区</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>韩语社区交流与韩语wiki。</value>
+  </data>
 </root>
