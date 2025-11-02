@@ -397,4 +397,10 @@
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>Позволяет создавать или загружать моды</value>
   </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>Корейская вики</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>Общайтесь с корейским сообществом фанатов.</value>
+  </data>
 </root>
