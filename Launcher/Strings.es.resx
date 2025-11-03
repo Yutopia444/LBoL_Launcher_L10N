@@ -350,7 +350,7 @@
     <value>Este mod ya existe</value>
   </data>
   <data name="RecordDescription" xml:space="preserve">
-    <value>Ver tus partidas subidas y compartidas por los jugadores.</value>
+    <value>Mira tus partidas subidas y compartidas por otros jugadores.</value>
   </data>
   <data name="Ver180Update" xml:space="preserve">
     <value>v1.8.0 Actualización Técnica</value>
@@ -377,7 +377,7 @@
     <value>Partidas Grabadas</value>
   </data>
   <data name="CommuityWikiJPDescription" xml:space="preserve">
-    <value>Ofrece soporte para el idioma japonés y las charlas de la comunidad japonesa.</value>
+    <value>Ofrece soporte para el idioma japonés y foros de la comunidad japonesa.</value>
   </data>
   <data name="CommuityWikiDescription" xml:space="preserve">
     <value>Ofrece soporte para varios idiomas.</value>
@@ -396,5 +396,11 @@
   </data>
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>Habilitar para crear o subir mods.</value>
+  </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>Comunidad Coreana</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>Foros de la comunidad coreana y la wiki coreana.</value>
   </data>
 </root>
