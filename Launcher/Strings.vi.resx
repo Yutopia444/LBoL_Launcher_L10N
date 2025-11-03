@@ -397,4 +397,10 @@
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>Cho phép bạn tự tạo và đăng tải mod.</value>
   </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>Thảo luận và wiki tiếng Hàn.</value>
+  </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>Cộng Đồng Tiếng Hàn Quốc</value>
+  </data>
 </root>
