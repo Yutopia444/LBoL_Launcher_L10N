@@ -397,4 +397,10 @@
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>オンにするとModの製作、アップロードが可能になります</value>
   </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>韓国コミュニティ</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>韓国コミュニティ兼wiki。</value>
+  </data>
 </root>
