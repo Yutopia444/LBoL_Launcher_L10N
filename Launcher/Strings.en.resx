@@ -397,4 +397,10 @@
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>Enable to create or upload mods.</value>
   </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>Korean Community</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>Korean community discussions and the Korean wiki.</value>
+  </data>
 </root>
