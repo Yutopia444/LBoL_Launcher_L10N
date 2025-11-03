@@ -65,13 +65,13 @@
     <value>Adj egy nevet ennek a profilnak</value>
   </data>
   <data name="DeleteProfileTooltip" xml:space="preserve">
-    <value>Profil Törlése</value>
+    <value>Profil törlése</value>
   </data>
   <data name="ConfirmButton" xml:space="preserve">
     <value>Megerősít</value>
   </data>
   <data name="PlayButton" xml:space="preserve">
-    <value>Játék Indítása</value>
+    <value>Játék indítása</value>
   </data>
   <data name="PublishButton" xml:space="preserve">
     <value>Közzétesz</value>
@@ -83,7 +83,7 @@
     <value>Rendezés</value>
   </data>
   <data name="FilterByTagsLabel" xml:space="preserve">
-    <value>Cimkék Szerinti Szűrés</value>
+    <value>Cimkék szerinti szűrés</value>
   </data>
   <data name="SortCustom" xml:space="preserve">
     <value>Egyedi</value>
@@ -101,7 +101,7 @@
     <value>Összes</value>
   </data>
   <data name="ModVersionLabel" xml:space="preserve">
-    <value>Mod Verzió</value>
+    <value>Mod verzió</value>
   </data>
   <data name="GUIDLabel" xml:space="preserve">
     <value>GUID</value>
@@ -116,7 +116,7 @@
     <value>Ki</value>
   </data>
   <data name="NewProfileTitle" xml:space="preserve">
-    <value>Új Profil</value>
+    <value>Új profil</value>
   </data>
   <data name="EnterProfileNameMessage" xml:space="preserve">
     <value>Adj meg egy nevet ennek a profilnak.</value>
@@ -125,7 +125,7 @@
     <value>Elutasít</value>
   </data>
   <data name="ProfileNameLabel" xml:space="preserve">
-    <value>Profil Neve:</value>
+    <value>Profil neve:</value>
   </data>
   <data name="ErrorTitle" xml:space="preserve">
     <value>Hiba</value>
@@ -164,10 +164,10 @@
     <value>"{0}" sikeresen törölve</value>
   </data>
   <data name="GameLanguage" xml:space="preserve">
-    <value>Játék Nyelve</value>
+    <value>Játék nyelve</value>
   </data>
   <data name="DisplayMode" xml:space="preserve">
-    <value>Megjelenítési Mód</value>
+    <value>Megjelenítési mód</value>
   </data>
   <data name="Monitor" xml:space="preserve">
     <value>Képernyő</value>
@@ -176,13 +176,13 @@
     <value>Felbontás</value>
   </data>
   <data name="LauncherSettings" xml:space="preserve">
-    <value>Indító Beállítások</value>
+    <value>Indító beállítások</value>
   </data>
   <data name="HomepageBackground" xml:space="preserve">
-    <value>Főoldal Háttere</value>
+    <value>Főoldal háttere</value>
   </data>
   <data name="Fullscreen" xml:space="preserve">
-    <value>Teljes Képernyő</value>
+    <value>Teljes képernyő</value>
   </data>
   <data name="Windowed" xml:space="preserve">
     <value>Ablakos</value>
@@ -191,10 +191,10 @@
     <value>Profil:</value>
   </data>
   <data name="SteamHomepage" xml:space="preserve">
-    <value>Steam Főoldal</value>
+    <value>Steam főoldal</value>
   </data>
   <data name="SteamWorkshop" xml:space="preserve">
-    <value>Steam Műhely</value>
+    <value>Steam műhely</value>
   </data>
   <data name="SteamWorkshopDescription" xml:space="preserve">
     <value>Böngéssz, iratkozz fel és tölts le modokat.</value>
@@ -203,13 +203,13 @@
     <value>Közösség</value>
   </data>
   <data name="ModManagement" xml:space="preserve">
-    <value>Mod Kezelés</value>
+    <value>Mod kezelés</value>
   </data>
   <data name="HasUnsatisfiedDependenciesTooltip" xml:space="preserve">
-    <value>Függőségek Kielégítetlenek</value>
+    <value>Függőségek kielégítetlenek</value>
   </data>
   <data name="ViewFolderButton" xml:space="preserve">
-    <value>Mappa Megtekintése</value>
+    <value>Mappa megtekintése</value>
   </data>
   <data name="ChangelogTab" xml:space="preserve">
     <value>Változásnapló</value>
@@ -224,22 +224,22 @@
     <value>ModTheLBoL</value>
   </data>
   <data name="OpenFolderButton" xml:space="preserve">
-    <value>Mappa Megnyitása</value>
+    <value>Mappa megnyitása</value>
   </data>
   <data name="AddProfileTooltip" xml:space="preserve">
-    <value>Profil Hozzáadása</value>
+    <value>Profil hozzáadása</value>
   </data>
   <data name="CopyProfileTooltip" xml:space="preserve">
-    <value>Profil Másolása</value>
+    <value>Profil másolása</value>
   </data>
   <data name="RemoveProfileTooltip" xml:space="preserve">
-    <value>Profil Törlése</value>
+    <value>Profil törlése</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
     <value>Modok keresése…</value>
   </data>
   <data name="SortByUpdateTime" xml:space="preserve">
-    <value>Legutóbb Frissítve</value>
+    <value>Legutóbb frissítve</value>
   </data>
   <data name="SortByAuthor" xml:space="preserve">
     <value>Készítő</value>
@@ -266,7 +266,7 @@
     <value>Kérlek válassz egy profilt a játék indítása előtt.</value>
   </data>
   <data name="CannotDeleteTitle" xml:space="preserve">
-    <value>Törlés Meghiúsult</value>
+    <value>Törlés meghiúsult</value>
   </data>
   <data name="CannotDeleteLastProfile" xml:space="preserve">
     <value>A törlés nem ment végbe. Legalább egy profilnak elérhetőnek kell lennie.</value>
@@ -284,13 +284,13 @@
     <value>Játékbeállítások</value>
   </data>
   <data name="LauncherLanguage" xml:space="preserve">
-    <value>Indító Nyelve</value>
+    <value>Indító nyelve</value>
   </data>
   <data name="StartGame" xml:space="preserve">
-    <value>Játék Indítása</value>
+    <value>Játék indítása</value>
   </data>
   <data name="VanillaGame" xml:space="preserve">
-    <value>Vanilla Játék</value>
+    <value>Vanilla játék</value>
   </data>
   <data name="SteamHomepageDescription" xml:space="preserve">
     <value>Vásárolj, vagy nézd meg a legfrissebb játékinformációkat.</value>
@@ -302,10 +302,10 @@
     <value>Vitasd meg a játékot más játékosokkal.</value>
   </data>
   <data name="ExternalLink" xml:space="preserve">
-    <value>Külső Hivatkozás</value>
+    <value>Külső hivatkozás</value>
   </data>
   <data name="ViewWorkshopPageButton" xml:space="preserve">
-    <value>Főoldal Megtekintése</value>
+    <value>Főoldal megtekintése</value>
   </data>
   <data name="IntroductionTab" xml:space="preserve">
     <value>Bemutatkozó</value>
@@ -317,13 +317,13 @@
     <value>Nem talált</value>
   </data>
   <data name="PrimaryMonitor" xml:space="preserve">
-    <value>Fő Képernyő</value>
+    <value>Fő képernyő</value>
   </data>
   <data name="MonitorNumber" xml:space="preserve">
     <value>Monitor {0}</value>
   </data>
   <data name="DeveloperMode" xml:space="preserve">
-    <value>Fejlesztői Mód</value>
+    <value>Fejlesztői mód</value>
   </data>
   <data name="ModNameCannotBeEmpty" xml:space="preserve">
     <value>A mod neve nem lehet üres.</value>
@@ -338,7 +338,7 @@
     <value>Ez a mod már létezik.</value>
   </data>
   <data name="CreateMod" xml:space="preserve">
-    <value>Készítő Mód</value>
+    <value>Készítő mód</value>
   </data>
   <data name="ModNamePlaceholder" xml:space="preserve">
     <value>Adj meg egy nevet ennek a modnak.</value>
@@ -359,22 +359,22 @@
     <value>v1.7.0 Végső Szín Frissítés</value>
   </data>
   <data name="CommunityHighlight" xml:space="preserve">
-    <value>Közösségi Kiemelés</value>
+    <value>Közösségi kiemelés</value>
   </data>
   <data name="OfficialQQ" xml:space="preserve">
-    <value>Hivatalos QQ Csatorna</value>
+    <value>Hivatalos QQ csatorna</value>
   </data>
   <data name="OfficialQQDescription" xml:space="preserve">
     <value>Egy hely ahol más játékosokkal lehet beszélgetni, főképp Egyszerűsített Kínai játékosok által használt.</value>
   </data>
   <data name="CommuityWiki" xml:space="preserve">
-    <value>Közösségi Wiki</value>
+    <value>Közösségi wiki</value>
   </data>
   <data name="CommuityWikiDescription" xml:space="preserve">
     <value>Több nyelvet is támogat.</value>
   </data>
   <data name="CommuityWikiJP" xml:space="preserve">
-    <value>Japán Közösségi Wiki</value>
+    <value>Japán közösségi wiki</value>
   </data>
   <data name="CommuityWikiJPDescription" xml:space="preserve">
     <value>Támogatja a Japánt és a Japán közösségi beszélgetést.</value>
@@ -386,15 +386,21 @@
     <value>Nézz más játékosok által feltöltött és megosztott futamokat.</value>
   </data>
   <data name="StartVanillaGame" xml:space="preserve">
-    <value>Indítás Modok Nélkül</value>
+    <value>Indítás modok nélkül</value>
   </data>
   <data name="StartModdedGame" xml:space="preserve">
-    <value>Indítás Modokkal</value>
+    <value>Indítás modokkal</value>
   </data>
   <data name="LocalMods" xml:space="preserve">
-    <value>Helyi Modok</value>
+    <value>Helyi modok</value>
   </data>
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>Bekapcsolás után hozhatsz létre/tölthetsz fel modokat.</value>
+  </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>Kóreai közösség</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>Kóreai közösségi beszélgetés és a kóreai wiki.</value>
   </data>
 </root>
