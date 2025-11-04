@@ -397,4 +397,10 @@
   <data name="BasePluginNotFound" xml:space="preserve">
     <value>스팀 창작 마당 모드 의존성이 충족되지 않았습니다. "확인" 버튼을 눌러 스팀 창작 마당 페이지로 이동한 뒤 해당 모드를 다운로드 후 게임을 다시 시작해주세요.</value>
   </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>한국 커뮤니티</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>한국의 동방광요야 관련 커뮤니티입니다.</value>
+  </data>
 </root>
