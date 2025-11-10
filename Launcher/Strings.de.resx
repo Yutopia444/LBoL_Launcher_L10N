@@ -353,7 +353,7 @@
     <value>Unterstützt mehrere Sprachen.</value>
   </data>
   <data name="CommuityWikiJPDescription" xml:space="preserve">
-    <value>Unterstützt die japanische Sprache und Diskussionen innerhalb der Community.</value>
+    <value>Unterstützt die japanische Sprache und Diskussionen innerhalb der japanischen Community.</value>
   </data>
   <data name="Ver180Update" xml:space="preserve">
     <value>v1.8.0 Technisches Update</value>
@@ -396,5 +396,11 @@
   </data>
   <data name="DeveloperModeDescription" xml:space="preserve">
     <value>Durch das Aktivieren dieser Option können Mods erstellt oder hochgeladen werden.</value>
+  </data>
+  <data name="CommuityWikiKR" xml:space="preserve">
+    <value>Koreanische Community</value>
+  </data>
+  <data name="CommuityWikiKRDescription" xml:space="preserve">
+    <value>Community-Diskussionen und Wiki auf koreanisch.</value>
   </data>
 </root>
